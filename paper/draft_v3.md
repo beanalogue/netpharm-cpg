@@ -254,7 +254,7 @@ The authors declare no competing interests.
 
 ## Data availability
 
-All pipeline code is available at [GitHub URL TBD]. TCMSP compound-target data were obtained via the public TCMSP web interface. OpenTargets data were retrieved via the public GraphQL API. Korean TM CPG formula compositions are from publicly available NIKOM (한국한의약진흥원) publications, accessible via the National Clinical Practice Guideline Portal for Korean Medicine (NCKM; nckm.or.kr). All analysis scripts are available in the repository.
+All pipeline code, analysis scripts, CPG formula data, and the manuscript are available at https://github.com/beanalogue/netpharm-cpg. TCMSP compound-target data were obtained via the public TCMSP web interface (tcmsp-e.com). OpenTargets disease-gene association data were retrieved via the public GraphQL API (platform.opentargets.org/api). Korean TM CPG formula compositions are from publicly available NIKOM (한국한의약진흥원) publications, accessible via the National Clinical Practice Guideline Portal for Korean Medicine (NCKM; nckm.or.kr).
 
 ## Acknowledgements
 
@@ -354,8 +354,9 @@ Line plot showing pool AUROC for essential hypertension (blue circles), insomnia
 
 ---
 
-*Draft v3.5 — 2026-09-12*
+*Draft v3.5 — 2026-09-12 — SUBMISSION CANDIDATE*
 *Target journal: Journal of Ethnopharmacology*
 *Manuscript type: Research Article*
-*Word count main text (Introduction to Conclusions): ~5,800 words*
-*Pending: (1) resolve remaining `[CITE — VERIFY]` tags (Duzhong/Gouteng antihypertensive activity, Liuwei Dihuang Wan animal-model evidence, phenolic-glycoside blind-spot generalization) and `[CITE Hopkins 2008]`-style placeholders with numbered citations; (2) GitHub URL for data availability; (3) authorship and funding; (4) graphical abstract update to reflect corrected HTN AUROC (0.655) and sensitivity-scenario count (5 of 7 independent); (5) consider whether title/running title should explicitly name the GSEA-style framing (current: "reverse network pharmacology")*
+*Word count main text (Introduction to Conclusions): ~5,900 words*
+*Repository: https://github.com/beanalogue/netpharm-cpg*
+*Pending before submission: (1) CRediT author contribution statement; (2) Acknowledgements; (3) graphical abstract update (HTN AUROC 0.655, "5 of 7 independent scenarios")*
