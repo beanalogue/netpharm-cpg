@@ -1,0 +1,2502 @@
+{
+  "Ardisiae Japonicae Herba": {
+    "herb_en_name": "Ardisiae Japonicae Herba",
+    "herb_cn_name": "矮地茶",
+    "herb_pinyin": "Aidicha"
+  },
+  "Folium Artemisiae Argyi": {
+    "herb_en_name": "Folium Artemisiae Argyi",
+    "herb_cn_name": "艾叶",
+    "herb_pinyin": "Aiye"
+  },
+  "Benzoinum": {
+    "herb_en_name": "Benzoinum",
+    "herb_cn_name": "安息香",
+    "herb_pinyin": "Anxixiang"
+  },
+  "Anisi Stellati Fructus": {
+    "herb_en_name": "Anisi Stellati Fructus",
+    "herb_cn_name": "八角茴香",
+    "herb_pinyin": "Bajiaohuixiang"
+  },
+  "Dysosmae Verspiellis Rhixoma Et Radix": {
+    "herb_en_name": "Dysosmae Verspiellis Rhixoma Et Radix",
+    "herb_cn_name": "八角莲",
+    "herb_pinyin": "Bajiaolian"
+  },
+  "Crotonis Fructus": {
+    "herb_en_name": "Crotonis Fructus",
+    "herb_cn_name": "巴豆",
+    "herb_pinyin": "Badou"
+  },
+  "Morindae Officinalis Radix": {
+    "herb_en_name": "Morindae Officinalis Radix",
+    "herb_cn_name": "巴戟天",
+    "herb_pinyin": "Bajitian"
+  },
+  "Smilax China": {
+    "herb_en_name": "Smilax China",
+    "herb_cn_name": "菝葜",
+    "herb_pinyin": "Baqia"
+  },
+  "Lablab Semen Album": {
+    "herb_en_name": "Lablab Semen Album",
+    "herb_cn_name": "白扁豆",
+    "herb_pinyin": "Baibiandou"
+  },
+  "Typhonii Rhizoma": {
+    "herb_en_name": "Typhonii Rhizoma",
+    "herb_cn_name": "白附子",
+    "herb_pinyin": "Baifuzi"
+  },
+  "Ginkgo Semen": {
+    "herb_en_name": "Ginkgo Semen",
+    "herb_cn_name": "白果",
+    "herb_pinyin": "Baiguo"
+  },
+  "Semen Cleomis": {
+    "herb_en_name": "Semen Cleomis",
+    "herb_cn_name": "白花菜子",
+    "herb_pinyin": "Baihuacaizi"
+  },
+  "Hedyotis Diffusae Herba": {
+    "herb_en_name": "Hedyotis Diffusae Herba",
+    "herb_cn_name": "白花蛇舌草",
+    "herb_pinyin": "Baihuasheshecao"
+  },
+  "Bletilla Striata (Thunb.Ex A.Murray)Rchb.F.": {
+    "herb_en_name": "Bletilla Striata (Thunb.Ex A.Murray)Rchb.F.",
+    "herb_cn_name": "白及",
+    "herb_pinyin": "Baiji"
+  },
+  "Ampelopsis Japonica": {
+    "herb_en_name": "Ampelopsis Japonica",
+    "herb_cn_name": "白蔹",
+    "herb_pinyin": "Bailian"
+  },
+  "Herba Solani Lyrati": {
+    "herb_en_name": "Herba Solani Lyrati",
+    "herb_cn_name": "白毛藤",
+    "herb_pinyin": "Baimaoteng"
+  },
+  "Ajugae Decumbentis Herba": {
+    "herb_en_name": "Ajugae Decumbentis Herba",
+    "herb_cn_name": "白毛夏枯草",
+    "herb_pinyin": "Baimaoxiakucao"
+  },
+  "Imperatae Rhizoma": {
+    "herb_en_name": "Imperatae Rhizoma",
+    "herb_cn_name": "白茅根",
+    "herb_pinyin": "Baimaogen"
+  },
+  "Cynanchistauntonii Rhizoma Et Radix": {
+    "herb_en_name": "Cynanchistauntonii Rhizoma Et Radix",
+    "herb_cn_name": "白前",
+    "herb_pinyin": "Baiqian"
+  },
+  "Chelidonii Herba": {
+    "herb_en_name": "Chelidonii Herba",
+    "herb_cn_name": "白屈菜",
+    "herb_pinyin": "Baiqucai"
+  },
+  "Paeoniae Radix Alba": {
+    "herb_en_name": "Paeoniae Radix Alba",
+    "herb_cn_name": "白芍",
+    "herb_pinyin": "Baishao"
+  },
+  "Atractylodes Macrocephala Koidz.": {
+    "herb_en_name": "Atractylodes Macrocephala Koidz.",
+    "herb_cn_name": "白术",
+    "herb_pinyin": "Baizhu"
+  },
+  "Pulsatilliae Radix": {
+    "herb_en_name": "Pulsatilliae Radix",
+    "herb_cn_name": "白头翁",
+    "herb_pinyin": "Baitouweng"
+  },
+  "Radix Cynanchi": {
+    "herb_en_name": "Radix Cynanchi",
+    "herb_cn_name": "白薇",
+    "herb_pinyin": "Baiwei"
+  },
+  "Dictamni Cortex": {
+    "herb_en_name": "Dictamni Cortex",
+    "herb_cn_name": "白鲜皮",
+    "herb_pinyin": "Baixianpi"
+  },
+  "Radix Stephaniae Cepharanthae.": {
+    "herb_en_name": "Radix Stephaniae Cepharanthae.",
+    "herb_cn_name": "白药子",
+    "herb_pinyin": "Baiyaozi"
+  },
+  "A. Dahurica (Fisch.) Benth. Et Hook": {
+    "herb_en_name": "A. Dahurica (Fisch.) Benth. Et Hook",
+    "herb_cn_name": "白芷",
+    "herb_pinyin": "Baizhi"
+  },
+  "Stemonae Radix": {
+    "herb_en_name": "Stemonae Radix",
+    "herb_cn_name": "百部",
+    "herb_pinyin": "Baibu"
+  },
+  "Lilii Bulbus": {
+    "herb_en_name": "Lilii Bulbus",
+    "herb_cn_name": "百合",
+    "herb_pinyin": "Baihe"
+  },
+  "Platycladi Semen": {
+    "herb_en_name": "Platycladi Semen",
+    "herb_cn_name": "柏子仁",
+    "herb_pinyin": "Baiziren"
+  },
+  "Herba Patriniae": {
+    "herb_en_name": "Herba Patriniae",
+    "herb_cn_name": "败酱草",
+    "herb_pinyin": "Baijiangcao"
+  },
+  "Mylabris": {
+    "herb_en_name": "Mylabris",
+    "herb_cn_name": "斑蝥",
+    "herb_pinyin": "Banmao"
+  },
+  "Isatidis Radix": {
+    "herb_en_name": "Isatidis Radix",
+    "herb_cn_name": "板蓝根",
+    "herb_pinyin": "Banlangen"
+  },
+  "Lobeliae Chinensis Herba": {
+    "herb_en_name": "Lobeliae Chinensis Herba",
+    "herb_cn_name": "半边莲",
+    "herb_pinyin": "Banbianlian"
+  },
+  "Arum Ternatum Thunb.": {
+    "herb_en_name": "Arum Ternatum Thunb.",
+    "herb_cn_name": "半夏",
+    "herb_pinyin": "Banxia"
+  },
+  "Scutellariae Barbatae Herba": {
+    "herb_en_name": "Scutellariae Barbatae Herba",
+    "herb_cn_name": "半枝莲",
+    "herb_pinyin": "Banzhilian"
+  },
+  "Menthae Herba": {
+    "herb_en_name": "Menthae Herba",
+    "herb_cn_name": "薄荷",
+    "herb_pinyin": "Bohe"
+  },
+  "Menispermi Rhizoma": {
+    "herb_en_name": "Menispermi Rhizoma",
+    "herb_cn_name": "北豆根",
+    "herb_pinyin": "Beidougen"
+  },
+  "Siphonostegiae Herba": {
+    "herb_en_name": "Siphonostegiae Herba",
+    "herb_cn_name": "北刘寄奴",
+    "herb_pinyin": "Beiliujinu"
+  },
+  "Glehniae Radix": {
+    "herb_en_name": "Glehniae Radix",
+    "herb_cn_name": "北沙参",
+    "herb_pinyin": "Beishashen"
+  },
+  "Schisandrae Chinensis Fructus": {
+    "herb_en_name": "Schisandrae Chinensis Fructus",
+    "herb_cn_name": "北五味子",
+    "herb_pinyin": "Beiwuweizi"
+  },
+  "Piperis Longi Fructus": {
+    "herb_en_name": "Piperis Longi Fructus",
+    "herb_cn_name": "荜茇",
+    "herb_pinyin": "Biba"
+  },
+  "Litseae Fructus": {
+    "herb_en_name": "Litseae Fructus",
+    "herb_cn_name": "荜澄茄",
+    "herb_pinyin": "Bichengqie"
+  },
+  "Ricini Semen": {
+    "herb_en_name": "Ricini Semen",
+    "herb_cn_name": "蓖麻子",
+    "herb_pinyin": "Bimazie"
+  },
+  "Polygoni Avicularis Herba": {
+    "herb_en_name": "Polygoni Avicularis Herba",
+    "herb_cn_name": "萹蓄",
+    "herb_pinyin": "Bianxu"
+  },
+  "Dolichos Lablab L": {
+    "herb_en_name": "Dolichos Lablab L",
+    "herb_cn_name": "扁豆花",
+    "herb_pinyin": "Biandouhua"
+  },
+  "Arecae Semen": {
+    "herb_en_name": "Arecae Semen",
+    "herb_cn_name": "槟榔",
+    "herb_pinyin": "Binglang"
+  },
+  "Borneolum Syntheticum": {
+    "herb_en_name": "Borneolum Syntheticum",
+    "herb_cn_name": "冰片",
+    "herb_pinyin": "Bingpian"
+  },
+  "Microctis Folium": {
+    "herb_en_name": "Microctis Folium",
+    "herb_cn_name": "布渣叶",
+    "herb_pinyin": "Buzhaye"
+  },
+  "Bombyx Mori L.": {
+    "herb_en_name": "Bombyx Mori L.",
+    "herb_cn_name": "蚕沙",
+    "herb_pinyin": "Cansha"
+  },
+  "Xanthii Fructus": {
+    "herb_en_name": "Xanthii Fructus",
+    "herb_cn_name": "苍耳子",
+    "herb_pinyin": "Cangerzi"
+  },
+  "Atractylodes Lancea (Thunb.)Dc.": {
+    "herb_en_name": "Atractylodes Lancea (Thunb.)Dc.",
+    "herb_cn_name": "苍术",
+    "herb_pinyin": "Cangzhu"
+  },
+  "Boschniakia Rossica Herba": {
+    "herb_en_name": "Boschniakia Rossica Herba",
+    "herb_cn_name": "草苁蓉",
+    "herb_pinyin": "Caocongrong"
+  },
+  "Amomum Tsao-Ko Crevostet": {
+    "herb_en_name": "Amomum Tsao-Ko Crevostet",
+    "herb_cn_name": "草果",
+    "herb_pinyin": "Caoguo"
+  },
+  "Aconitum Kusnezoffii Reichb": {
+    "herb_en_name": "Aconitum Kusnezoffii Reichb",
+    "herb_cn_name": "草乌",
+    "herb_pinyin": "Caowu"
+  },
+  "Radix Aconiti Kusnezoffii": {
+    "herb_en_name": "Radix Aconiti Kusnezoffii",
+    "herb_cn_name": "草乌叶",
+    "herb_pinyin": "Caowuye"
+  },
+  "Platycladi Cacumen": {
+    "herb_en_name": "Platycladi Cacumen",
+    "herb_cn_name": "侧柏叶",
+    "herb_pinyin": "Cebaiye"
+  },
+  "Radix Bupleuri": {
+    "herb_en_name": "Radix Bupleuri",
+    "herb_cn_name": "柴胡",
+    "herb_pinyin": "Chaihu"
+  },
+  "Cicadae Periostracum": {
+    "herb_en_name": "Cicadae Periostracum",
+    "herb_cn_name": "蝉蜕",
+    "herb_pinyin": "Chantui"
+  },
+  "Dichroae Radix": {
+    "herb_en_name": "Dichroae Radix",
+    "herb_cn_name": "常山",
+    "herb_pinyin": "Changshan"
+  },
+  "Plantaginis Herba": {
+    "herb_en_name": "Plantaginis Herba",
+    "herb_cn_name": "车前草",
+    "herb_pinyin": "Cheqiancao"
+  },
+  "Plantaginis Semen": {
+    "herb_en_name": "Plantaginis Semen",
+    "herb_cn_name": "车前子",
+    "herb_pinyin": "Cheqianzi"
+  },
+  "Linderae Radix": {
+    "herb_en_name": "Linderae Radix",
+    "herb_cn_name": "乌药",
+    "herb_pinyin": "Wuyao"
+  },
+  "Citrus Reticulata": {
+    "herb_en_name": "Citrus Reticulata",
+    "herb_cn_name": "陈皮",
+    "herb_pinyin": "Chenpi"
+  },
+  "Radix Paeoniae Rubra": {
+    "herb_en_name": "Radix Paeoniae Rubra",
+    "herb_cn_name": "赤芍",
+    "herb_pinyin": "Chishao"
+  },
+  "Phaseoli Semen": {
+    "herb_en_name": "Phaseoli Semen",
+    "herb_cn_name": "赤小豆",
+    "herb_pinyin": "Chixiaodou"
+  },
+  "Broussonetiae Fructus": {
+    "herb_en_name": "Broussonetiae Fructus",
+    "herb_cn_name": "楮实子",
+    "herb_pinyin": "Chushiziu"
+  },
+  "Fritiliariae Irrhosae Bulbus": {
+    "herb_en_name": "Fritiliariae Irrhosae Bulbus",
+    "herb_cn_name": "川贝母",
+    "herb_pinyin": "Chuanbeimu"
+  },
+  "Cortex Hibisci": {
+    "herb_en_name": "Cortex Hibisci",
+    "herb_cn_name": "川槿皮",
+    "herb_pinyin": "Chuanjinpi"
+  },
+  "Toosendan Fructus": {
+    "herb_en_name": "Toosendan Fructus",
+    "herb_cn_name": "川楝子",
+    "herb_pinyin": "Chuanlianzi"
+  },
+  "Clematidis Armandii Caulis": {
+    "herb_en_name": "Clematidis Armandii Caulis",
+    "herb_cn_name": "川木通",
+    "herb_pinyin": "Chuanmutong"
+  },
+  "Cyathulae Radix": {
+    "herb_en_name": "Cyathulae Radix",
+    "herb_cn_name": "川牛膝",
+    "herb_pinyin": "Chuanniuxi"
+  },
+  "Iridis Tectori Rhizoma": {
+    "herb_en_name": "Iridis Tectori Rhizoma",
+    "herb_cn_name": "川射干",
+    "herb_pinyin": "Chuanshegan"
+  },
+  "Aconiti Radix": {
+    "herb_en_name": "Aconiti Radix",
+    "herb_cn_name": "川乌",
+    "herb_pinyin": "Chuanwu"
+  },
+  "Chuanxiong Rhizoma": {
+    "herb_en_name": "Chuanxiong Rhizoma",
+    "herb_cn_name": "川芎",
+    "herb_pinyin": "Chuanxiong"
+  },
+  "Rhizoma Dioscoreae Nipponicae": {
+    "herb_en_name": "Rhizoma Dioscoreae Nipponicae",
+    "herb_cn_name": "穿山龙",
+    "herb_pinyin": "Chuanshanlong"
+  },
+  "Andrographis Herba": {
+    "herb_en_name": "Andrographis Herba",
+    "herb_cn_name": "穿心莲",
+    "herb_pinyin": "Chuanxinlian"
+  },
+  "Sedi Herba": {
+    "herb_en_name": "Sedi Herba",
+    "herb_cn_name": "垂盆草",
+    "herb_pinyin": "Chuipencao"
+  },
+  "Ailanthi Cortex": {
+    "herb_en_name": "Ailanthi Cortex",
+    "herb_cn_name": "椿皮",
+    "herb_pinyin": "Chunpi"
+  },
+  "Allii Fistulost Bulbus": {
+    "herb_en_name": "Allii Fistulost Bulbus",
+    "herb_cn_name": "葱白",
+    "herb_pinyin": "Congbai"
+  },
+  "Hydnocarpi Anthelminticae Semen": {
+    "herb_en_name": "Hydnocarpi Anthelminticae Semen",
+    "herb_cn_name": "大风子",
+    "herb_pinyin": "Dafengzi"
+  },
+  "Areca Catechu L.": {
+    "herb_en_name": "Areca Catechu L.",
+    "herb_cn_name": "大腹皮",
+    "herb_pinyin": "Dafupi"
+  },
+  "Radix Rhei Et Rhizome": {
+    "herb_en_name": "Radix Rhei Et Rhizome",
+    "herb_cn_name": "大黄",
+    "herb_pinyin": "Dahuang"
+  },
+  "Radix Cirsii Japonici": {
+    "herb_en_name": "Radix Cirsii Japonici",
+    "herb_cn_name": "大蓟",
+    "herb_pinyin": "Daji"
+  },
+  "Isatidis Folium": {
+    "herb_en_name": "Isatidis Folium",
+    "herb_cn_name": "大青叶",
+    "herb_pinyin": "Daqingye"
+  },
+  "Allii Sativi Bulbus": {
+    "herb_en_name": "Allii Sativi Bulbus",
+    "herb_cn_name": "大蒜",
+    "herb_pinyin": "Dasuan"
+  },
+  "Sargentodoxae Caulis": {
+    "herb_en_name": "Sargentodoxae Caulis",
+    "herb_cn_name": "大血藤",
+    "herb_pinyin": "Daxueteng"
+  },
+  "Jujubae Fructus": {
+    "herb_en_name": "Jujubae Fructus",
+    "herb_cn_name": "大枣",
+    "herb_pinyin": "Dazao"
+  },
+  "Gleditsiae Fructus": {
+    "herb_en_name": "Gleditsiae Fructus",
+    "herb_cn_name": "大皂荚",
+    "herb_pinyin": "Dazaojia"
+  },
+  "Citrus Aurantium": {
+    "herb_en_name": "Citrus Aurantium",
+    "herb_cn_name": "玳玳花",
+    "herb_pinyin": "Daidaihua"
+  },
+  "Radix Salviae": {
+    "herb_en_name": "Radix Salviae",
+    "herb_cn_name": "丹参",
+    "herb_pinyin": "Danshen"
+  },
+  "Sojae Semen Praeparatum": {
+    "herb_en_name": "Sojae Semen Praeparatum",
+    "herb_cn_name": "淡豆豉",
+    "herb_pinyin": "Dandouchi"
+  },
+  "Angelicae Sinensis Radix": {
+    "herb_en_name": "Angelicae Sinensis Radix",
+    "herb_cn_name": "当归",
+    "herb_pinyin": "Danggui"
+  },
+  "Codonopsis Radix": {
+    "herb_en_name": "Codonopsis Radix",
+    "herb_cn_name": "党参",
+    "herb_pinyin": "Dangshen"
+  },
+  "Canavaliae Semen": {
+    "herb_en_name": "Canavaliae Semen",
+    "herb_cn_name": "刀豆",
+    "herb_pinyin": "Daodou"
+  },
+  "Achyranthis Asperae Herba": {
+    "herb_en_name": "Achyranthis Asperae Herba",
+    "herb_cn_name": "倒扣草",
+    "herb_pinyin": "Daokoucao"
+  },
+  "Junci Medulla": {
+    "herb_en_name": "Junci Medulla",
+    "herb_cn_name": "灯心草",
+    "herb_pinyin": "Dengxincao"
+  },
+  "Hyperici Japonici Herber": {
+    "herb_en_name": "Hyperici Japonici Herber",
+    "herb_cn_name": "地耳草",
+    "herb_pinyin": "Diercao"
+  },
+  "Kochiae Fructus": {
+    "herb_en_name": "Kochiae Fructus",
+    "herb_cn_name": "地肤子",
+    "herb_pinyin": "Difuzi"
+  },
+  "Euphorbiae Humifusae Herba": {
+    "herb_en_name": "Euphorbiae Humifusae Herba",
+    "herb_cn_name": "地锦草",
+    "herb_pinyin": "Dijincao"
+  },
+  "Radix Sanguisorbae": {
+    "herb_en_name": "Radix Sanguisorbae",
+    "herb_cn_name": "地榆",
+    "herb_pinyin": "Diyu"
+  },
+  "Erycibe Obtusifolia Benth": {
+    "herb_en_name": "Erycibe Obtusifolia Benth",
+    "herb_cn_name": "丁公藤",
+    "herb_pinyin": "Dinggongteng"
+  },
+  "Caryophylliflos": {
+    "herb_en_name": "Caryophylliflos",
+    "herb_cn_name": "丁香",
+    "herb_pinyin": "Dingxiang"
+  },
+  "Corayceps": {
+    "herb_en_name": "Corayceps",
+    "herb_cn_name": "冬虫夏草",
+    "herb_pinyin": "Dongchongxiacao"
+  },
+  "Benincasae Exocarpium": {
+    "herb_en_name": "Benincasae Exocarpium",
+    "herb_cn_name": "冬瓜皮",
+    "herb_pinyin": "Dongguapi"
+  },
+  "Benincasae Semen": {
+    "herb_en_name": "Benincasae Semen",
+    "herb_cn_name": "冬瓜子",
+    "herb_pinyin": "Dongguazi"
+  },
+  "Malvae Fructus": {
+    "herb_en_name": "Malvae Fructus",
+    "herb_cn_name": "冬葵果",
+    "herb_pinyin": "Dongkuiguo"
+  },
+  "Alpinia Katsumadai Hayat": {
+    "herb_en_name": "Alpinia Katsumadai Hayat",
+    "herb_cn_name": "豆蔻",
+    "herb_pinyin": "Doukou"
+  },
+  "Radix Angelicae Biseratae": {
+    "herb_en_name": "Radix Angelicae Biseratae",
+    "herb_cn_name": "独活",
+    "herb_pinyin": "Duhuo"
+  },
+  "Eucommiae Cortex": {
+    "herb_en_name": "Eucommiae Cortex",
+    "herb_cn_name": "杜仲",
+    "herb_pinyin": "Duzhong"
+  },
+  "Eucommiae Folium": {
+    "herb_en_name": "Eucommiae Folium",
+    "herb_cn_name": "杜仲叶",
+    "herb_pinyin": "Duzhongye"
+  },
+  "Herba Clinopodii Polycephali.": {
+    "herb_en_name": "Herba Clinopodii Polycephali.",
+    "herb_cn_name": "断血流",
+    "herb_pinyin": "Duanxueliu"
+  },
+  "Curcumae Rhizoma": {
+    "herb_en_name": "Curcumae Rhizoma",
+    "herb_cn_name": "莪术",
+    "herb_pinyin": "Ezhu"
+  },
+  "Centipedae Herba": {
+    "herb_en_name": "Centipedae Herba",
+    "herb_cn_name": "鹅不食草",
+    "herb_pinyin": "Ebushicao"
+  },
+  "Catechu": {
+    "herb_en_name": "Catechu",
+    "herb_cn_name": "儿茶",
+    "herb_pinyin": "Ercha"
+  },
+  "Sennae Folium": {
+    "herb_en_name": "Sennae Folium",
+    "herb_cn_name": "番泻叶",
+    "herb_pinyin": "Fanxieye"
+  },
+  "Potentillae Discoloris Herba": {
+    "herb_en_name": "Potentillae Discoloris Herba",
+    "herb_cn_name": "翻白草",
+    "herb_pinyin": "Fanbaicao"
+  },
+  "Saposhnikoviae Radix": {
+    "herb_en_name": "Saposhnikoviae Radix",
+    "herb_cn_name": "防风",
+    "herb_pinyin": "Fangfeng"
+  },
+  "Stephaniae Tetrandrae Radix": {
+    "herb_en_name": "Stephaniae Tetrandrae Radix",
+    "herb_cn_name": "防己",
+    "herb_pinyin": "Fangji"
+  },
+  "Dioscoreae Hypoglaucae Rhizoma": {
+    "herb_en_name": "Dioscoreae Hypoglaucae Rhizoma",
+    "herb_cn_name": "粉萆薢",
+    "herb_pinyin": "Fenbixie"
+  },
+  "Pteridis Multifidae Herba": {
+    "herb_en_name": "Pteridis Multifidae Herba",
+    "herb_cn_name": "凤尾草",
+    "herb_pinyin": "Fengweicao"
+  },
+  "Impatiens Balsamina": {
+    "herb_en_name": "Impatiens Balsamina",
+    "herb_cn_name": "凤仙透骨草",
+    "herb_pinyin": "Fengxiantougucao"
+  },
+  "Ailanthi Altissimae Fructus": {
+    "herb_en_name": "Ailanthi Altissimae Fructus",
+    "herb_cn_name": "凤眼草",
+    "herb_pinyin": "Fengyancao"
+  },
+  "Citri Sarcodactylis Fructus": {
+    "herb_en_name": "Citri Sarcodactylis Fructus",
+    "herb_cn_name": "佛手",
+    "herb_pinyin": "Foshou"
+  },
+  "Poria Cocos(Schw.) Wolf.": {
+    "herb_en_name": "Poria Cocos(Schw.) Wolf.",
+    "herb_cn_name": "茯苓",
+    "herb_pinyin": "Fuling"
+  },
+  "Spirodelae Herba": {
+    "herb_en_name": "Spirodelae Herba",
+    "herb_cn_name": "浮萍",
+    "herb_pinyin": "Fuping"
+  },
+  "Aconiti Lateralis Radix Praeparata": {
+    "herb_en_name": "Aconiti Lateralis Radix Praeparata",
+    "herb_cn_name": "附子",
+    "herb_pinyin": "Fuzi"
+  },
+  "licorice": {
+    "herb_en_name": "licorice",
+    "herb_cn_name": "甘草",
+    "herb_pinyin": "Gancao"
+  },
+  "Nardostachyos Radix Et Rhizoma": {
+    "herb_en_name": "Nardostachyos Radix Et Rhizoma",
+    "herb_cn_name": "甘松",
+    "herb_pinyin": "Gansong"
+  },
+  "Kansui Radix": {
+    "herb_en_name": "Kansui Radix",
+    "herb_cn_name": "甘遂",
+    "herb_pinyin": "Gansui"
+  },
+  "Zingiberis Rhizoma": {
+    "herb_en_name": "Zingiberis Rhizoma",
+    "herb_cn_name": "干姜",
+    "herb_pinyin": "Ganjiang"
+  },
+  "Alpiniae Officinarum Rhizome": {
+    "herb_en_name": "Alpiniae Officinarum Rhizome",
+    "herb_cn_name": "高良姜",
+    "herb_pinyin": "Gaoliangjiang"
+  },
+  "Ligustici Rhizoma Et Radix": {
+    "herb_en_name": "Ligustici Rhizoma Et Radix",
+    "herb_cn_name": "藁本",
+    "herb_pinyin": "Gaoben"
+  },
+  "Puerariae Flos": {
+    "herb_en_name": "Puerariae Flos",
+    "herb_cn_name": "葛花",
+    "herb_pinyin": "Gehua"
+  },
+  "Mahoniae Caulis": {
+    "herb_en_name": "Mahoniae Caulis",
+    "herb_cn_name": "功劳木",
+    "herb_pinyin": "Gonglaomu"
+  },
+  "Uncariae Ramulus Cumuncis": {
+    "herb_en_name": "Uncariae Ramulus Cumuncis",
+    "herb_cn_name": "钩藤",
+    "herb_pinyin": "Gouteng"
+  },
+  "Folium Ilicis Cornutae": {
+    "herb_en_name": "Folium Ilicis Cornutae",
+    "herb_cn_name": "枸骨叶",
+    "herb_pinyin": "Gouguye"
+  },
+  "Eriocauli Flos": {
+    "herb_en_name": "Eriocauli Flos",
+    "herb_cn_name": "谷精草",
+    "herb_pinyin": "Gujingcao"
+  },
+  "Drynariae Rhizoma": {
+    "herb_en_name": "Drynariae Rhizoma",
+    "herb_cn_name": "骨碎补",
+    "herb_pinyin": "Gusuibu"
+  },
+  "Calyx Cucumis": {
+    "herb_en_name": "Calyx Cucumis",
+    "herb_cn_name": "瓜蒂",
+    "herb_pinyin": "Guadi"
+  },
+  "Trichosanthes Kirilowii Maxim": {
+    "herb_en_name": "Trichosanthes Kirilowii Maxim",
+    "herb_cn_name": "瓜蒌",
+    "herb_pinyin": "Gualou"
+  },
+  "Phellodendri Amurensis Cortex": {
+    "herb_en_name": "Phellodendri Amurensis Cortex",
+    "herb_cn_name": "关黄柏",
+    "herb_pinyin": "Guanhuangbo"
+  },
+  "Herbahypericiperforati": {
+    "herb_en_name": "Herbahypericiperforati",
+    "herb_cn_name": "贯叶金丝桃",
+    "herb_pinyin": "Guanyejinsitao"
+  },
+  "Fortunes Bossfern Rhizome": {
+    "herb_en_name": "Fortunes Bossfern Rhizome",
+    "herb_cn_name": "贯众",
+    "herb_pinyin": "Guanzhong"
+  },
+  "Pogostemon Cablin (Blanco) Benth.": {
+    "herb_en_name": "Pogostemon Cablin (Blanco) Benth.",
+    "herb_cn_name": "广藿香",
+    "herb_pinyin": "Guanghuoxiang"
+  },
+  "Choerospondiatis Fructus": {
+    "herb_en_name": "Choerospondiatis Fructus",
+    "herb_cn_name": "广枣",
+    "herb_pinyin": "Guangzao"
+  },
+  "Euonymi Alati Ramulus": {
+    "herb_en_name": "Euonymi Alati Ramulus",
+    "herb_cn_name": "鬼箭羽",
+    "herb_pinyin": "Guijianyu"
+  },
+  "Bidentis Bipinnatae Herba": {
+    "herb_en_name": "Bidentis Bipinnatae Herba",
+    "herb_cn_name": "鬼针草",
+    "herb_pinyin": "Guizhencao"
+  },
+  "Cinnamomi Ramulus": {
+    "herb_en_name": "Cinnamomi Ramulus",
+    "herb_cn_name": "桂枝",
+    "herb_pinyin": "Guizhi"
+  },
+  "Caulis Piperis Kadsurae": {
+    "herb_en_name": "Caulis Piperis Kadsurae",
+    "herb_cn_name": "海风藤",
+    "herb_pinyin": "Haifengteng"
+  },
+  "Lygodii Spora": {
+    "herb_en_name": "Lygodii Spora",
+    "herb_cn_name": "海金沙",
+    "herb_pinyin": "Haijinsha"
+  },
+  "Cortex Erythrinae": {
+    "herb_en_name": "Cortex Erythrinae",
+    "herb_cn_name": "海桐皮",
+    "herb_pinyin": "Haitongpi"
+  },
+  "Sargassum": {
+    "herb_en_name": "Sargassum",
+    "herb_cn_name": "海藻",
+    "herb_pinyin": "Haizao"
+  },
+  "Chebulae Fructus": {
+    "herb_en_name": "Chebulae Fructus",
+    "herb_cn_name": "诃子",
+    "herb_pinyin": "Hezi"
+  },
+  "Juglandis Semen": {
+    "herb_en_name": "Juglandis Semen",
+    "herb_cn_name": "核桃仁",
+    "herb_pinyin": "Hetaoren"
+  },
+  "Carpesiumabrotanoidesl.": {
+    "herb_en_name": "Carpesiumabrotanoidesl.",
+    "herb_cn_name": "鹤虱",
+    "herb_pinyin": "Heshi"
+  },
+  "Sojae Semen Nigrum": {
+    "herb_en_name": "Sojae Semen Nigrum",
+    "herb_cn_name": "黑豆",
+    "herb_pinyin": "Heidou"
+  },
+  "Kadsurae Coccineae Radix Et Caulis": {
+    "herb_en_name": "Kadsurae Coccineae Radix Et Caulis",
+    "herb_cn_name": "黑老虎",
+    "herb_pinyin": "Heilaohu"
+  },
+  "Sesami Nigrum Semen": {
+    "herb_en_name": "Sesami Nigrum Semen",
+    "herb_cn_name": "黑芝麻",
+    "herb_pinyin": "Heizhima"
+  },
+  "Ginsen Radix Et Rhizoma Rubra": {
+    "herb_en_name": "Ginsen Radix Et Rhizoma Rubra",
+    "herb_cn_name": "红参",
+    "herb_pinyin": "Hongshen"
+  },
+  "Carthami Flos": {
+    "herb_en_name": "Carthami Flos",
+    "herb_cn_name": "红花",
+    "herb_pinyin": "Honghua"
+  },
+  "Hedysari Radix": {
+    "herb_en_name": "Hedysari Radix",
+    "herb_cn_name": "红芪",
+    "herb_pinyin": "Hongqi"
+  },
+  "Macacae Calcalus Gasteris": {
+    "herb_en_name": "Macacae Calcalus Gasteris",
+    "herb_cn_name": "猴枣",
+    "herb_pinyin": "Houzao"
+  },
+  "Magnolia Officinalis Rehd Et Wils．": {
+    "herb_en_name": "Magnolia Officinalis Rehd Et Wils．",
+    "herb_cn_name": "厚朴",
+    "herb_pinyin": "Houpu"
+  },
+  "Picrorhizae Rhizoma": {
+    "herb_en_name": "Picrorhizae Rhizoma",
+    "herb_cn_name": "胡黄连",
+    "herb_pinyin": "Huhuanglian"
+  },
+  "Piperis Fructus": {
+    "herb_en_name": "Piperis Fructus",
+    "herb_cn_name": "胡椒",
+    "herb_pinyin": "Hujiao"
+  },
+  "Trigonellae Semen": {
+    "herb_en_name": "Trigonellae Semen",
+    "herb_cn_name": "胡芦巴",
+    "herb_pinyin": "Huluba"
+  },
+  "Viscum Angulatum Heyne": {
+    "herb_en_name": "Viscum Angulatum Heyne",
+    "herb_cn_name": "槲寄生",
+    "herb_pinyin": "Hujisheng"
+  },
+  "Saxifraga Stolonifera": {
+    "herb_en_name": "Saxifraga Stolonifera",
+    "herb_cn_name": "虎耳草",
+    "herb_pinyin": "Huercao"
+  },
+  "Polygoni Cuspidati Rhizoma Et Radix": {
+    "herb_en_name": "Polygoni Cuspidati Rhizoma Et Radix",
+    "herb_cn_name": "虎杖",
+    "herb_pinyin": "Huzhang"
+  },
+  "Zanthoxyli Pericarpium": {
+    "herb_en_name": "Zanthoxyli Pericarpium",
+    "herb_cn_name": "花椒",
+    "herb_pinyin": "Huajiao"
+  },
+  "Peanut Skin": {
+    "herb_en_name": "Peanut Skin",
+    "herb_cn_name": "花生衣",
+    "herb_pinyin": "Huashengyi"
+  },
+  "Physochlainae Radix": {
+    "herb_en_name": "Physochlainae Radix",
+    "herb_cn_name": "华山参",
+    "herb_pinyin": "Huashanshen"
+  },
+  "Citri Grandis Exocarpium": {
+    "herb_en_name": "Citri Grandis Exocarpium",
+    "herb_cn_name": "化橘红",
+    "herb_pinyin": "Huajuhong"
+  },
+  "Sophora Japonica L.": {
+    "herb_en_name": "Sophora Japonica L.",
+    "herb_cn_name": "槐花",
+    "herb_pinyin": "Huaihua"
+  },
+  "Fructussophorae": {
+    "herb_en_name": "Fructussophorae",
+    "herb_cn_name": "槐角",
+    "herb_pinyin": "Huaijiao"
+  },
+  "Phellodendri Chinrnsis Cortex": {
+    "herb_en_name": "Phellodendri Chinrnsis Cortex",
+    "herb_cn_name": "黄柏",
+    "herb_pinyin": "Huangbo"
+  },
+  "Polygonati Rhizoma": {
+    "herb_en_name": "Polygonati Rhizoma",
+    "herb_cn_name": "黄精",
+    "herb_pinyin": "Huangjing"
+  },
+  "Coptidis Rhizoma": {
+    "herb_en_name": "Coptidis Rhizoma",
+    "herb_cn_name": "黄连",
+    "herb_pinyin": "Huanglian"
+  },
+  "Hedysarum Multijugum Maxim.": {
+    "herb_en_name": "Hedysarum Multijugum Maxim.",
+    "herb_cn_name": "黄芪",
+    "herb_pinyin": "Huangqi"
+  },
+  "Scutellariae Radix": {
+    "herb_en_name": "Scutellariae Radix",
+    "herb_cn_name": "黄芩",
+    "herb_pinyin": "Huangqin"
+  },
+  "Dioscoreaebulbiferae": {
+    "herb_en_name": "Dioscoreaebulbiferae",
+    "herb_cn_name": "黄药子",
+    "herb_pinyin": "Huangyaozi"
+  },
+  "Cannabis Sativa L.": {
+    "herb_en_name": "Cannabis Sativa L.",
+    "herb_cn_name": "火麻仁",
+    "herb_pinyin": "Huomaren"
+  },
+  "Abri Herba": {
+    "herb_en_name": "Abri Herba",
+    "herb_cn_name": "鸡骨草",
+    "herb_pinyin": "Jigucao"
+  },
+  "Celosia Cristata L.": {
+    "herb_en_name": "Celosia Cristata L.",
+    "herb_cn_name": "鸡冠花",
+    "herb_pinyin": "Jiguanhua"
+  },
+  "Paederiae Scandentis Herba": {
+    "herb_en_name": "Paederiae Scandentis Herba",
+    "herb_cn_name": "鸡屎藤",
+    "herb_pinyin": "Jishiteng"
+  },
+  "Spatholobus Suberectus Dunn": {
+    "herb_en_name": "Spatholobus Suberectus Dunn",
+    "herb_cn_name": "鸡血藤",
+    "herb_pinyin": "Jixueteng"
+  },
+  "Centella Asiatica (L.) Urban[Hydro-Cotyle Asiatica L.]": {
+    "herb_en_name": "Centella Asiatica (L.) Urban[Hydro-Cotyle Asiatica L.]",
+    "herb_cn_name": "积雪草",
+    "herb_pinyin": "Jixuecao"
+  },
+  "Impatientis Semen": {
+    "herb_en_name": "Impatientis Semen",
+    "herb_cn_name": "急性子",
+    "herb_pinyin": "Jixingzi"
+  },
+  "Curcumaelongae Rhizoma": {
+    "herb_en_name": "Curcumaelongae Rhizoma",
+    "herb_cn_name": "姜黄",
+    "herb_pinyin": "Jianghuang"
+  },
+  "Dalbergiae Odoriferae Lignum": {
+    "herb_en_name": "Dalbergiae Odoriferae Lignum",
+    "herb_cn_name": "降香",
+    "herb_pinyin": "Jiangxiang"
+  },
+  "Gynostemmae Pentaphylli Herba": {
+    "herb_en_name": "Gynostemmae Pentaphylli Herba",
+    "herb_cn_name": "绞股蓝",
+    "herb_pinyin": "Jiaoguolan"
+  },
+  "Sinapis Semen": {
+    "herb_en_name": "Sinapis Semen",
+    "herb_cn_name": "芥子",
+    "herb_pinyin": "Jiezi"
+  },
+  "Inulae Herba": {
+    "herb_en_name": "Inulae Herba",
+    "herb_cn_name": "金沸草",
+    "herb_pinyin": "Jinfeicao"
+  },
+  "Tinosporae Radix": {
+    "herb_en_name": "Tinosporae Radix",
+    "herb_cn_name": "金果揽",
+    "herb_pinyin": "Jinguolan"
+  },
+  "Trollius Chinensis": {
+    "herb_en_name": "Trollius Chinensis",
+    "herb_cn_name": "金莲花",
+    "herb_pinyin": "Jinlianhua"
+  },
+  "Lysimachiae Herba": {
+    "herb_en_name": "Lysimachiae Herba",
+    "herb_cn_name": "金钱草",
+    "herb_pinyin": "Jinqiancao"
+  },
+  "Rhizoma Fagopyri Cymosi": {
+    "herb_en_name": "Rhizoma Fagopyri Cymosi",
+    "herb_cn_name": "金荞麦",
+    "herb_pinyin": "Jinqiaomai"
+  },
+  "Lonicerae Japonicae Flos": {
+    "herb_en_name": "Lonicerae Japonicae Flos",
+    "herb_cn_name": "金银花",
+    "herb_pinyin": "Jinyinhua"
+  },
+  "Rosae Laevigatae Fructus": {
+    "herb_en_name": "Rosae Laevigatae Fructus",
+    "herb_cn_name": "金樱子",
+    "herb_pinyin": "Jinyingzi"
+  },
+  "Calendula Officinalis": {
+    "herb_en_name": "Calendula Officinalis",
+    "herb_cn_name": "金盏菊花",
+    "herb_pinyin": "Jinzhanjuhua"
+  },
+  "Calyx Seu Fructus Physalis": {
+    "herb_en_name": "Calyx Seu Fructus Physalis",
+    "herb_cn_name": "锦灯笼",
+    "herb_pinyin": "Jindenglong"
+  },
+  "Radix Euphorbiae Pekinensis": {
+    "herb_en_name": "Radix Euphorbiae Pekinensis",
+    "herb_cn_name": "京大戟",
+    "herb_pinyin": "Jingdaji"
+  },
+  "Schizonepetae Herba": {
+    "herb_en_name": "Schizonepetae Herba",
+    "herb_cn_name": "荆芥",
+    "herb_pinyin": "Jingjie"
+  },
+  "Schizonepetae Spica": {
+    "herb_en_name": "Schizonepetae Spica",
+    "herb_cn_name": "荆芥穗",
+    "herb_pinyin": "Jingjiesui"
+  },
+  "Sedum Aizoon L.": {
+    "herb_en_name": "Sedum Aizoon L.",
+    "herb_cn_name": "景天三七",
+    "herb_pinyin": "Jintiansanqi"
+  },
+  "Allii Tuberosi Semen": {
+    "herb_en_name": "Allii Tuberosi Semen",
+    "herb_cn_name": "韭菜子",
+    "herb_pinyin": "Jiucaizi"
+  },
+  "Platycodon Grandiforus": {
+    "herb_en_name": "Platycodon Grandiforus",
+    "herb_cn_name": "桔梗",
+    "herb_pinyin": "Jiegeng"
+  },
+  "Chrysanthemi Flos": {
+    "herb_en_name": "Chrysanthemi Flos",
+    "herb_cn_name": "菊花",
+    "herb_pinyin": "Juhua"
+  },
+  "Cichorii Radix": {
+    "herb_en_name": "Cichorii Radix",
+    "herb_cn_name": "菊苣",
+    "herb_pinyin": "Juju"
+  },
+  "Citri Reticulatae Semen": {
+    "herb_en_name": "Citri Reticulatae Semen",
+    "herb_cn_name": "橘核",
+    "herb_pinyin": "Juhe"
+  },
+  "Citri Exocarpium Rubrum": {
+    "herb_en_name": "Citri Exocarpium Rubrum",
+    "herb_cn_name": "橘红",
+    "herb_pinyin": "Juhong"
+  },
+  "Citri Reticulatae Folium": {
+    "herb_en_name": "Citri Reticulatae Folium",
+    "herb_cn_name": "橘叶",
+    "herb_pinyin": "Juye"
+  },
+  "Herba Selaginellae Moellendorfii": {
+    "herb_en_name": "Herba Selaginellae Moellendorfii",
+    "herb_cn_name": "卷柏",
+    "herb_pinyin": "Juanbai"
+  },
+  "Cassiae Semen": {
+    "herb_en_name": "Cassiae Semen",
+    "herb_cn_name": "决明子",
+    "herb_pinyin": "Juemingzi"
+  },
+  "Sophorae Flavescentis Radix": {
+    "herb_en_name": "Sophorae Flavescentis Radix",
+    "herb_cn_name": "苦参",
+    "herb_pinyin": "Kushen"
+  },
+  "Corydalis Bungeanae Herba": {
+    "herb_en_name": "Corydalis Bungeanae Herba",
+    "herb_cn_name": "苦地丁",
+    "herb_pinyin": "Kudiding"
+  },
+  "Ilicis Cornutae Folium Immayuri": {
+    "herb_en_name": "Ilicis Cornutae Folium Immayuri",
+    "herb_cn_name": "苦丁茶",
+    "herb_pinyin": "Kudingcha"
+  },
+  "Meliae Cortex": {
+    "herb_en_name": "Meliae Cortex",
+    "herb_cn_name": "苦楝皮",
+    "herb_pinyin": "Kulianpi"
+  },
+  "Meliae Azedarach Fructus": {
+    "herb_en_name": "Meliae Azedarach Fructus",
+    "herb_cn_name": "苦楝子",
+    "herb_pinyin": "Kulianzi"
+  },
+  "Amygdalus Communis Vas": {
+    "herb_en_name": "Amygdalus Communis Vas",
+    "herb_cn_name": "苦杏仁",
+    "herb_pinyin": "Kuxingren"
+  },
+  "Farfarae Flos": {
+    "herb_en_name": "Farfarae Flos",
+    "herb_cn_name": "款冬花",
+    "herb_pinyin": "Kuandonghua"
+  },
+  "Thalluslaminariae": {
+    "herb_en_name": "Thalluslaminariae",
+    "herb_cn_name": "昆布",
+    "herb_pinyin": "Kunbu"
+  },
+  "Capsici Fructus": {
+    "herb_en_name": "Capsici Fructus",
+    "herb_cn_name": "辣椒",
+    "herb_pinyin": "Lajiao"
+  },
+  "Raphani Semen": {
+    "herb_en_name": "Raphani Semen",
+    "herb_cn_name": "莱菔子",
+    "herb_pinyin": "Laifuzi"
+  },
+  "Geranium Wilfordii Maxim.": {
+    "herb_en_name": "Geranium Wilfordii Maxim.",
+    "herb_cn_name": "老鹳草",
+    "herb_pinyin": "Laoguancao"
+  },
+  "Wikstroemiae Indicae Rasix": {
+    "herb_en_name": "Wikstroemiae Indicae Rasix",
+    "herb_cn_name": "了哥王根",
+    "herb_pinyin": "Liaogewanggen"
+  },
+  "Tripterygii Radix": {
+    "herb_en_name": "Tripterygii Radix",
+    "herb_cn_name": "雷公藤",
+    "herb_pinyin": "Leigongteng"
+  },
+  "Omphalia": {
+    "herb_en_name": "Omphalia",
+    "herb_cn_name": "雷丸",
+    "herb_pinyin": "Leiwan"
+  },
+  "Glechomae Herba": {
+    "herb_en_name": "Glechomae Herba",
+    "herb_cn_name": "连钱草",
+    "herb_pinyin": "Lianqiancao"
+  },
+  "Forsythiae Fructus": {
+    "herb_en_name": "Forsythiae Fructus",
+    "herb_cn_name": "连翘",
+    "herb_pinyin": "Lianqiao"
+  },
+  "Receptaculum Nelumbinis": {
+    "herb_en_name": "Receptaculum Nelumbinis",
+    "herb_cn_name": "莲房",
+    "herb_pinyin": "Lianfang"
+  },
+  "Nelumbinis Stamen": {
+    "herb_en_name": "Nelumbinis Stamen",
+    "herb_cn_name": "莲须",
+    "herb_pinyin": "Lianxu"
+  },
+  "Nelumbinis Plumula": {
+    "herb_en_name": "Nelumbinis Plumula",
+    "herb_cn_name": "莲子心",
+    "herb_pinyin": "Lianzixin"
+  },
+  "Zanthoxylum Nitidum": {
+    "herb_en_name": "Zanthoxylum Nitidum",
+    "herb_cn_name": "两面针",
+    "herb_pinyin": "Liangmianzhen"
+  },
+  "Rhizoma Anemones Raddeanae": {
+    "herb_en_name": "Rhizoma Anemones Raddeanae",
+    "herb_cn_name": "两头尖",
+    "herb_pinyin": "Liangtoujian"
+  },
+  "Polygoni Tinctorii Foliu": {
+    "herb_en_name": "Polygoni Tinctorii Foliu",
+    "herb_cn_name": "蓼大青叶",
+    "herb_pinyin": "Liaodaqingye"
+  },
+  "Ganoderma": {
+    "herb_en_name": "Ganoderma",
+    "herb_cn_name": "灵芝",
+    "herb_pinyin": "Lingzhi"
+  },
+  "Campsis Flos": {
+    "herb_en_name": "Campsis Flos",
+    "herb_cn_name": "凌霄花",
+    "herb_pinyin": "Lingxiaohua"
+  },
+  "Lysimachiae Foenigraeci Herba": {
+    "herb_en_name": "Lysimachiae Foenigraeci Herba",
+    "herb_cn_name": "零陵香",
+    "herb_pinyin": "Linglingxiang"
+  },
+  "Gentianae Radix Et Rhozima": {
+    "herb_en_name": "Gentianae Radix Et Rhozima",
+    "herb_cn_name": "龙胆",
+    "herb_pinyin": "Longdan"
+  },
+  "Solanum Nigrum Linn.": {
+    "herb_en_name": "Solanum Nigrum Linn.",
+    "herb_cn_name": "龙葵",
+    "herb_pinyin": "Longkui"
+  },
+  "Aauropi Folium": {
+    "herb_en_name": "Aauropi Folium",
+    "herb_cn_name": "龙脷叶",
+    "herb_pinyin": "Longliye"
+  },
+  "Rhapontici Radix": {
+    "herb_en_name": "Rhapontici Radix",
+    "herb_cn_name": "漏芦",
+    "herb_pinyin": "Loulu"
+  },
+  "Phragmitis Rhizoma": {
+    "herb_en_name": "Phragmitis Rhizoma",
+    "herb_cn_name": "芦根",
+    "herb_pinyin": "Lugen"
+  },
+  "Aloe": {
+    "herb_en_name": "Aloe",
+    "herb_cn_name": "芦荟",
+    "herb_pinyin": "Luhui"
+  },
+  "Herba Pyrolae": {
+    "herb_en_name": "Herba Pyrolae",
+    "herb_cn_name": "鹿衔草",
+    "herb_pinyin": "Luxiancao"
+  },
+  "Fructuslipuidambaris": {
+    "herb_en_name": "Fructuslipuidambaris",
+    "herb_cn_name": "路路通",
+    "herb_pinyin": "Lulutong"
+  },
+  "Apocyniveneti Folium": {
+    "herb_en_name": "Apocyniveneti Folium",
+    "herb_cn_name": "罗布麻叶",
+    "herb_pinyin": "Luobumaye"
+  },
+  "Momordicae Fructus": {
+    "herb_en_name": "Momordicae Fructus",
+    "herb_cn_name": "罗汉果",
+    "herb_pinyin": "Luohanguo"
+  },
+  "Trachelospermumjasminoides": {
+    "herb_en_name": "Trachelospermumjasminoides",
+    "herb_cn_name": "络石藤",
+    "herb_pinyin": "Luoshiteng"
+  },
+  "Vigna Radiata": {
+    "herb_en_name": "Vigna Radiata",
+    "herb_cn_name": "绿豆",
+    "herb_pinyin": "Lvdou"
+  },
+  "Humulus Scandens (Lour.) Merr.": {
+    "herb_en_name": "Humulus Scandens (Lour.) Merr.",
+    "herb_cn_name": "葎草",
+    "herb_pinyin": "Lvcao"
+  },
+  "Ephedra Herba": {
+    "herb_en_name": "Ephedra Herba",
+    "herb_cn_name": "麻黄",
+    "herb_pinyin": "Mahuang"
+  },
+  "Ephedrae Radix Et Rhizoma": {
+    "herb_en_name": "Ephedrae Radix Et Rhizoma",
+    "herb_cn_name": "麻黄根",
+    "herb_pinyin": "Mahuanggen"
+  },
+  "Verbenae Herb": {
+    "herb_en_name": "Verbenae Herb",
+    "herb_cn_name": "马鞭草",
+    "herb_pinyin": "Mabiancao"
+  },
+  "Lasiosphaera Seu Calvatia": {
+    "herb_en_name": "Lasiosphaera Seu Calvatia",
+    "herb_cn_name": "马勃",
+    "herb_pinyin": "Mabo"
+  },
+  "Portulacae Herba": {
+    "herb_en_name": "Portulacae Herba",
+    "herb_cn_name": "马齿苋",
+    "herb_pinyin": "Machixian"
+  },
+  "Aristolochiae Fructus": {
+    "herb_en_name": "Aristolochiae Fructus",
+    "herb_cn_name": "马兜铃",
+    "herb_pinyin": "Madouling"
+  },
+  "Strychni Semen": {
+    "herb_en_name": "Strychni Semen",
+    "herb_cn_name": "马钱子",
+    "herb_pinyin": "Maqianzi"
+  },
+  "Thalictri Glandulosissimi Et": {
+    "herb_en_name": "Thalictri Glandulosissimi Et",
+    "herb_cn_name": "马尾莲",
+    "herb_pinyin": "Maweilian"
+  },
+  "Hordei Fructus Germinatus": {
+    "herb_en_name": "Hordei Fructus Germinatus",
+    "herb_cn_name": "麦芽",
+    "herb_pinyin": "Maiya"
+  },
+  "Rhododendri Daurici Folium": {
+    "herb_en_name": "Rhododendri Daurici Folium",
+    "herb_cn_name": "满山红",
+    "herb_pinyin": "Manshanhong"
+  },
+  "Viticis Fructus": {
+    "herb_en_name": "Viticis Fructus",
+    "herb_cn_name": "蔓荆子",
+    "herb_pinyin": "Manjingzi"
+  },
+  "Lunulatae Herba": {
+    "herb_en_name": "Lunulatae Herba",
+    "herb_cn_name": "猫眼草",
+    "herb_pinyin": "Maoyancao"
+  },
+  "Ranunculi Ternati Radix": {
+    "herb_en_name": "Ranunculi Ternati Radix",
+    "herb_cn_name": "猫爪草",
+    "herb_pinyin": "Maozhaocao"
+  },
+  "Myrrha": {
+    "herb_en_name": "Myrrha",
+    "herb_cn_name": "没药",
+    "herb_pinyin": "Moyao"
+  },
+  "Rose Rugosae Flos": {
+    "herb_en_name": "Rose Rugosae Flos",
+    "herb_cn_name": "玫瑰花",
+    "herb_pinyin": "Meiguihua"
+  },
+  "Mume Flos": {
+    "herb_en_name": "Mume Flos",
+    "herb_cn_name": "梅花",
+    "herb_pinyin": "Meihua"
+  },
+  "Actinidia Chinensis Planch": {
+    "herb_en_name": "Actinidia Chinensis Planch",
+    "herb_cn_name": "猕猴桃根",
+    "herb_pinyin": "Mihoutaogen"
+  },
+  "Buddlejae Flos": {
+    "herb_en_name": "Buddlejae Flos",
+    "herb_cn_name": "密蒙花",
+    "herb_pinyin": "Mimenghua"
+  },
+  "Dioscoreae Septemlo Bae Rhizoma": {
+    "herb_en_name": "Dioscoreae Septemlo Bae Rhizoma",
+    "herb_cn_name": "绵萆薢",
+    "herb_pinyin": "Mianbixie"
+  },
+  "Ecliptae Herba": {
+    "herb_en_name": "Ecliptae Herba",
+    "herb_cn_name": "墨旱莲",
+    "herb_pinyin": "Mohanlian"
+  },
+  "Cortex Moutan": {
+    "herb_en_name": "Cortex Moutan",
+    "herb_cn_name": "牡丹皮",
+    "herb_pinyin": "Mudanpi"
+  },
+  "Viticis Cannabifoliae Fructus": {
+    "herb_en_name": "Viticis Cannabifoliae Fructus",
+    "herb_cn_name": "牡荆子",
+    "herb_pinyin": "Mujingzi"
+  },
+  "Momordicae Semen": {
+    "herb_en_name": "Momordicae Semen",
+    "herb_cn_name": "木鳖子",
+    "herb_pinyin": "Mubiezi"
+  },
+  "Chaenomeles Sinensis (Thouin) Koehne": {
+    "herb_en_name": "Chaenomeles Sinensis (Thouin) Koehne",
+    "herb_cn_name": "木瓜",
+    "herb_pinyin": "Mugau"
+  },
+  "Gossampiniflos": {
+    "herb_en_name": "Gossampiniflos",
+    "herb_cn_name": "木棉花",
+    "herb_pinyin": "Mumianhua"
+  },
+  "Caulis Akebiae": {
+    "herb_en_name": "Caulis Akebiae",
+    "herb_cn_name": "木通",
+    "herb_pinyin": "Mutong"
+  },
+  "Aucklandiae Radix": {
+    "herb_en_name": "Aucklandiae Radix",
+    "herb_cn_name": "木香",
+    "herb_pinyin": "Muxiang"
+  },
+  "Equiseti Hiemalis Herba": {
+    "herb_en_name": "Equiseti Hiemalis Herba",
+    "herb_cn_name": "木贼",
+    "herb_pinyin": "Muzei"
+  },
+  "Et Radix Patriniae Rhizoma": {
+    "herb_en_name": "Et Radix Patriniae Rhizoma",
+    "herb_cn_name": "墓头回",
+    "herb_pinyin": "Mutouhui"
+  },
+  "Cucurbitae Moschatae Semen": {
+    "herb_en_name": "Cucurbitae Moschatae Semen",
+    "herb_cn_name": "南瓜子",
+    "herb_pinyin": "Nanguazi"
+  },
+  "Fructus Carotae": {
+    "herb_en_name": "Fructus Carotae",
+    "herb_cn_name": "南鹤虱",
+    "herb_pinyin": "Nanheshi"
+  },
+  "Adenophprae Ae Radix": {
+    "herb_en_name": "Adenophprae Ae Radix",
+    "herb_cn_name": "南沙参",
+    "herb_pinyin": "Nanshashen"
+  },
+  "Celastri Orbiculati Fructus": {
+    "herb_en_name": "Celastri Orbiculati Fructus",
+    "herb_cn_name": "南蛇藤果",
+    "herb_pinyin": "Nanshetengguo"
+  },
+  "Schisandrae Sphenantherae Fructus": {
+    "herb_en_name": "Schisandrae Sphenantherae Fructus",
+    "herb_cn_name": "南五味子",
+    "herb_pinyin": "Nawuweizi"
+  },
+  "Rhododendronmolle": {
+    "herb_en_name": "Rhododendronmolle",
+    "herb_cn_name": "闹羊花",
+    "herb_pinyin": "Naoyanghua"
+  },
+  "Fructus Arctii": {
+    "herb_en_name": "Fructus Arctii",
+    "herb_cn_name": "牛蒡子",
+    "herb_pinyin": "Niubangzi"
+  },
+  "Millettiae Speciosae Radix": {
+    "herb_en_name": "Millettiae Speciosae Radix",
+    "herb_cn_name": "牛大力",
+    "herb_pinyin": "Niudali"
+  },
+  "Bovis Calculus": {
+    "herb_en_name": "Bovis Calculus",
+    "herb_cn_name": "牛黄",
+    "herb_pinyin": "Niuhuang"
+  },
+  "Achyranthis Bidentatae Radix": {
+    "herb_en_name": "Achyranthis Bidentatae Radix",
+    "herb_cn_name": "牛膝",
+    "herb_pinyin": "Niuxi"
+  },
+  "Oryzae Glutinosae Radix": {
+    "herb_en_name": "Oryzae Glutinosae Radix",
+    "herb_cn_name": "糯稻根",
+    "herb_pinyin": "Nuodaogen"
+  },
+  "Nodus Nelumbinis Rhizomatis": {
+    "herb_en_name": "Nodus Nelumbinis Rhizomatis",
+    "herb_cn_name": "藕节",
+    "herb_pinyin": "Oujie"
+  },
+  "Sterculiae Lychnophorae Semen": {
+    "herb_en_name": "Sterculiae Lychnophorae Semen",
+    "herb_cn_name": "胖大海",
+    "herb_pinyin": "Pangdahai"
+  },
+  "Eupatorium Fortunei Turcz": {
+    "herb_en_name": "Eupatorium Fortunei Turcz",
+    "herb_cn_name": "佩兰",
+    "herb_pinyin": "Peilan"
+  },
+  "Eriobotryae Folium": {
+    "herb_en_name": "Eriobotryae Folium",
+    "herb_cn_name": "枇杷叶",
+    "herb_pinyin": "Pipaye"
+  },
+  "Fritillariaeussuriensis Bulbus": {
+    "herb_en_name": "Fritillariaeussuriensis Bulbus",
+    "herb_cn_name": "平贝母",
+    "herb_pinyin": "Pingbeimu"
+  },
+  "Pollen Typhae": {
+    "herb_en_name": "Pollen Typhae",
+    "herb_cn_name": "蒲黄",
+    "herb_pinyin": "Puhuang"
+  },
+  "Capsellae Herba": {
+    "herb_en_name": "Capsellae Herba",
+    "herb_cn_name": "荠菜",
+    "herb_pinyin": "Jicai"
+  },
+  "Flemingia Prostrata Roxb": {
+    "herb_en_name": "Flemingia Prostrata Roxb",
+    "herb_cn_name": "千斤拔",
+    "herb_pinyin": "Qianjinba"
+  },
+  "Semen Euphorbiae": {
+    "herb_en_name": "Semen Euphorbiae",
+    "herb_cn_name": "千金子",
+    "herb_pinyin": "Qianjinzi"
+  },
+  "Homalomena Occulta (Lour.) Schott": {
+    "herb_en_name": "Homalomena Occulta (Lour.) Schott",
+    "herb_cn_name": "千年健",
+    "herb_pinyin": "Qiannianjian"
+  },
+  "Gomphrenae Globosae Flos Seu Herba": {
+    "herb_en_name": "Gomphrenae Globosae Flos Seu Herba",
+    "herb_cn_name": "千日红",
+    "herb_pinyin": "Qianrihong"
+  },
+  "Semen Pharbitidis": {
+    "herb_en_name": "Semen Pharbitidis",
+    "herb_cn_name": "牵牛子",
+    "herb_pinyin": "Qianniuzi"
+  },
+  "Peucedani Radix": {
+    "herb_en_name": "Peucedani Radix",
+    "herb_cn_name": "前胡",
+    "herb_pinyin": "Qianhu"
+  },
+  "Euryales Semen": {
+    "herb_en_name": "Euryales Semen",
+    "herb_cn_name": "芡实",
+    "herb_pinyin": "Qianshi"
+  },
+  "Rubia Cordifolia": {
+    "herb_en_name": "Rubia Cordifolia",
+    "herb_cn_name": "茜草",
+    "herb_pinyin": "Qiancao"
+  },
+  "Notopterygii Rhizoma Et Radix": {
+    "herb_en_name": "Notopterygii Rhizoma Et Radix",
+    "herb_cn_name": "羌活",
+    "herb_pinyin": "Qianghuo"
+  },
+  "Solanum Melongena L": {
+    "herb_en_name": "Solanum Melongena L",
+    "herb_cn_name": "茄根",
+    "herb_pinyin": "Qiegeng"
+  },
+  "Gentiana Macrophylla Pall": {
+    "herb_en_name": "Gentiana Macrophylla Pall",
+    "herb_cn_name": "秦艽",
+    "herb_pinyin": "Qinjia"
+  },
+  "Fraxini Cortex": {
+    "herb_en_name": "Fraxini Cortex",
+    "herb_cn_name": "秦皮",
+    "herb_pinyin": "Qinpi"
+  },
+  "Indigo Naturalis": {
+    "herb_en_name": "Indigo Naturalis",
+    "herb_cn_name": "青黛",
+    "herb_pinyin": "Qingdai"
+  },
+  "Caulis Sinomenii": {
+    "herb_en_name": "Caulis Sinomenii",
+    "herb_cn_name": "青风藤",
+    "herb_pinyin": "Qingfengteng"
+  },
+  "Canarii Fructus": {
+    "herb_en_name": "Canarii Fructus",
+    "herb_cn_name": "青果",
+    "herb_pinyin": "Qingguo"
+  },
+  "Artemisia Annua L.": {
+    "herb_en_name": "Artemisia Annua L.",
+    "herb_cn_name": "青蒿",
+    "herb_pinyin": "Qinghao"
+  },
+  "Citri Reticulatae Pericarpium Viride": {
+    "herb_en_name": "Citri Reticulatae Pericarpium Viride",
+    "herb_cn_name": "青皮",
+    "herb_pinyin": "Qingpi"
+  },
+  "Celosiae Semen": {
+    "herb_en_name": "Celosiae Semen",
+    "herb_cn_name": "青葙子",
+    "herb_pinyin": "Qingxiangzi"
+  },
+  "Swertiae Mileensis Herba": {
+    "herb_en_name": "Swertiae Mileensis Herba",
+    "herb_cn_name": "青叶胆",
+    "herb_pinyin": "Qingyedan"
+  },
+  "Abutili Semen": {
+    "herb_en_name": "Abutili Semen",
+    "herb_cn_name": "苘麻子",
+    "herb_pinyin": "Qingmazi"
+  },
+  "Dianthi Herba": {
+    "herb_en_name": "Dianthi Herba",
+    "herb_cn_name": "瞿麦",
+    "herb_pinyin": "Qumai"
+  },
+  "Bistortae Rhizoma": {
+    "herb_en_name": "Bistortae Rhizoma",
+    "herb_cn_name": "拳参",
+    "herb_pinyin": "Quanshen"
+  },
+  "Panax Ginseng C. A. Mey.": {
+    "herb_en_name": "Panax Ginseng C. A. Mey.",
+    "herb_cn_name": "人参",
+    "herb_pinyin": "Renshen"
+  },
+  "Cistanches Herba": {
+    "herb_en_name": "Cistanches Herba",
+    "herb_cn_name": "肉苁蓉",
+    "herb_pinyin": "Roucongrong"
+  },
+  "Myristicae Semen": {
+    "herb_en_name": "Myristicae Semen",
+    "herb_cn_name": "肉豆蔻",
+    "herb_pinyin": "Roudoukou"
+  },
+  "Cinnanmomi Cortex": {
+    "herb_en_name": "Cinnanmomi Cortex",
+    "herb_cn_name": "肉桂",
+    "herb_pinyin": "Rougui"
+  },
+  "Olibanun": {
+    "herb_en_name": "Olibanun",
+    "herb_cn_name": "乳香",
+    "herb_pinyin": "Ruxiang"
+  },
+  "Prinsepiae Nux": {
+    "herb_en_name": "Prinsepiae Nux",
+    "herb_cn_name": "蕤仁",
+    "herb_pinyin": "Ruiren"
+  },
+  "Saururi Herba": {
+    "herb_en_name": "Saururi Herba",
+    "herb_cn_name": "三白草",
+    "herb_pinyin": "Sanbaicao"
+  },
+  "Anisodus Acutangulus C. Y. Wu Et C .Chen Ex C. Che": {
+    "herb_en_name": "Anisodus Acutangulus C. Y. Wu Et C .Chen Ex C. Che",
+    "herb_cn_name": "三分三",
+    "herb_pinyin": "Sanfensan"
+  },
+  "Sparganii Rhizoma": {
+    "herb_en_name": "Sparganii Rhizoma",
+    "herb_cn_name": "三棱",
+    "herb_pinyin": "Sanleng"
+  },
+  "Panax Notoginseng (Burk.) F. H. Chen Ex C. Chow": {
+    "herb_en_name": "Panax Notoginseng (Burk.) F. H. Chen Ex C. Chow",
+    "herb_cn_name": "三七",
+    "herb_pinyin": "Sanqi"
+  },
+  "Notoginseng Flos": {
+    "herb_en_name": "Notoginseng Flos",
+    "herb_cn_name": "三七花",
+    "herb_pinyin": "Sanqihua"
+  },
+  "Mori Cortex": {
+    "herb_en_name": "Mori Cortex",
+    "herb_cn_name": "月季花",
+    "herb_pinyin": "Yuejihua"
+  },
+  "Herba Taxilli": {
+    "herb_en_name": "Herba Taxilli",
+    "herb_cn_name": "桑寄生",
+    "herb_pinyin": "Sangjisheng"
+  },
+  "Mori Fructus": {
+    "herb_en_name": "Mori Fructus",
+    "herb_cn_name": "桑椹",
+    "herb_pinyin": "Sangsheng"
+  },
+  "Mori Follum": {
+    "herb_en_name": "Mori Follum",
+    "herb_cn_name": "桑叶",
+    "herb_pinyin": "Sangye"
+  },
+  "Ramulus Mori": {
+    "herb_en_name": "Ramulus Mori",
+    "herb_cn_name": "桑枝",
+    "herb_pinyin": "Sangzhi"
+  },
+  "Hippophae Fructus": {
+    "herb_en_name": "Hippophae Fructus",
+    "herb_cn_name": "沙棘",
+    "herb_pinyin": "Shaji"
+  },
+  "Astragali Cpmplanatisemen": {
+    "herb_en_name": "Astragali Cpmplanatisemen",
+    "herb_cn_name": "沙苑子",
+    "herb_pinyin": "Shayuanzi"
+  },
+  "Amomum Aurantiacum H. T. Tsai Et S. W. Zhao": {
+    "herb_en_name": "Amomum Aurantiacum H. T. Tsai Et S. W. Zhao",
+    "herb_cn_name": "砂仁",
+    "herb_pinyin": "Sharen"
+  },
+  "Pseudobulbus Cremastrae Seu Pleiones": {
+    "herb_en_name": "Pseudobulbus Cremastrae Seu Pleiones",
+    "herb_cn_name": "山慈菇",
+    "herb_pinyin": "Shancigu"
+  },
+  "Sophorae Tonkinensis Radix Et Rhizome": {
+    "herb_en_name": "Sophorae Tonkinensis Radix Et Rhizome",
+    "herb_cn_name": "山豆根",
+    "herb_pinyin": "Shandougen"
+  },
+  "Kaempferiae Rhizoma": {
+    "herb_en_name": "Kaempferiae Rhizoma",
+    "herb_cn_name": "山柰",
+    "herb_pinyin": "Shannai"
+  },
+  "Rhizoma Dioscoreae": {
+    "herb_en_name": "Rhizoma Dioscoreae",
+    "herb_cn_name": "山药",
+    "herb_pinyin": "Shanyao"
+  },
+  "Crataegi Folium": {
+    "herb_en_name": "Crataegi Folium",
+    "herb_cn_name": "山楂叶",
+    "herb_pinyin": "Shanzhaye"
+  },
+  "Cornus Officinalis Sieb. Et Zucc.": {
+    "herb_en_name": "Cornus Officinalis Sieb. Et Zucc.",
+    "herb_cn_name": "山茱萸",
+    "herb_pinyin": "Shanzhuyu"
+  },
+  "Phytolaccae Radix": {
+    "herb_en_name": "Phytolaccae Radix",
+    "herb_cn_name": "商陆",
+    "herb_pinyin": "Shanglu"
+  },
+  "Cnidii Fructus": {
+    "herb_en_name": "Cnidii Fructus",
+    "herb_cn_name": "蛇床子",
+    "herb_pinyin": "Shechuangzi"
+  },
+  "Belamcandae Rhizome": {
+    "herb_en_name": "Belamcandae Rhizome",
+    "herb_cn_name": "射干",
+    "herb_pinyin": "Shegan"
+  },
+  "Rhizome Of Whiteback Greenbrier": {
+    "herb_en_name": "Rhizome Of Whiteback Greenbrier",
+    "herb_cn_name": "伸筋草",
+    "herb_pinyin": "Shenjincao"
+  },
+  "Cimicifugae Rhizoma": {
+    "herb_en_name": "Cimicifugae Rhizoma",
+    "herb_cn_name": "升麻",
+    "herb_pinyin": "Shengma"
+  },
+  "Zingiber Officinale Roscoe": {
+    "herb_en_name": "Zingiber Officinale Roscoe",
+    "herb_cn_name": "生姜",
+    "herb_pinyin": "Shengjiang"
+  },
+  "Mahoniae Eadix": {
+    "herb_en_name": "Mahoniae Eadix",
+    "herb_cn_name": "十大功劳根",
+    "herb_pinyin": "Shidagonglaogen"
+  },
+  "Mahoniae Folum": {
+    "herb_en_name": "Mahoniae Folum",
+    "herb_cn_name": "十大功劳叶",
+    "herb_pinyin": "Shidagonglaoye"
+  },
+  "Acoritataninowii Rhizoma": {
+    "herb_en_name": "Acoritataninowii Rhizoma",
+    "herb_cn_name": "石菖蒲",
+    "herb_pinyin": "Shichangpu"
+  },
+  "Salviae Chinensis Herba": {
+    "herb_en_name": "Salviae Chinensis Herba",
+    "herb_cn_name": "石见穿",
+    "herb_pinyin": "Shijianchuan"
+  },
+  "Granati Pericarpium": {
+    "herb_en_name": "Granati Pericarpium",
+    "herb_cn_name": "石榴皮",
+    "herb_pinyin": "Shiliupi"
+  },
+  "Selaginella Doederleinii Hieron": {
+    "herb_en_name": "Selaginella Doederleinii Hieron",
+    "herb_cn_name": "石上柏",
+    "herb_pinyin": "Shishangbai"
+  },
+  "Pyrrosiae Folium": {
+    "herb_en_name": "Pyrrosiae Folium",
+    "herb_cn_name": "石韦",
+    "herb_pinyin": "Shiwei"
+  },
+  "Quisqualis Indica": {
+    "herb_en_name": "Quisqualis Indica",
+    "herb_cn_name": "使君子",
+    "herb_pinyin": "Shijunzi"
+  },
+  "Kaki Calyx": {
+    "herb_en_name": "Kaki Calyx",
+    "herb_cn_name": "柿蒂",
+    "herb_pinyin": "Shidi"
+  },
+  "Rehmanniae Radix Praeparata": {
+    "herb_en_name": "Rehmanniae Radix Praeparata",
+    "herb_cn_name": "熟地黄",
+    "herb_pinyin": "Shudihuang"
+  },
+  "Gnaphalii Affinis Herba": {
+    "herb_en_name": "Gnaphalii Affinis Herba",
+    "herb_cn_name": "鼠曲草",
+    "herb_pinyin": "Shuqucao"
+  },
+  "Silybum Marianum": {
+    "herb_en_name": "Silybum Marianum",
+    "herb_cn_name": "水飞蓟",
+    "herb_pinyin": "Shuifeiji"
+  },
+  "Polygoni Orientalis Fructus": {
+    "herb_en_name": "Polygoni Orientalis Fructus",
+    "herb_cn_name": "水红花子",
+    "herb_pinyin": "Shuihonghuazi"
+  },
+  "Ilicis Purpureae Folium": {
+    "herb_en_name": "Ilicis Purpureae Folium",
+    "herb_cn_name": "四季青",
+    "herb_pinyin": "Sijiqing"
+  },
+  "Pine Pollen": {
+    "herb_en_name": "Pine Pollen",
+    "herb_cn_name": "松花粉",
+    "herb_pinyin": "Songhuafen"
+  },
+  "Semen Pini Koraiensis": {
+    "herb_en_name": "Semen Pini Koraiensis",
+    "herb_cn_name": "松子仁",
+    "herb_pinyin": "Songziren"
+  },
+  "Styrax": {
+    "herb_en_name": "Styrax",
+    "herb_cn_name": "苏合香",
+    "herb_pinyin": "Suhexiang"
+  },
+  "Ziziphi Spinosae Semen": {
+    "herb_en_name": "Ziziphi Spinosae Semen",
+    "herb_cn_name": "酸枣仁",
+    "herb_pinyin": "Suanzaoren"
+  },
+  "Semen Aesculi": {
+    "herb_en_name": "Semen Aesculi",
+    "herb_cn_name": "娑罗子",
+    "herb_pinyin": "Suoluozi"
+  },
+  "Pseudostellariae Radix": {
+    "herb_en_name": "Pseudostellariae Radix",
+    "herb_cn_name": "太子参",
+    "herb_pinyin": "Taizishen"
+  },
+  "Santalum Album L．": {
+    "herb_en_name": "Santalum Album L．",
+    "herb_cn_name": "檀香",
+    "herb_pinyin": "Tanxiang"
+  },
+  "Persicae Semen": {
+    "herb_en_name": "Persicae Semen",
+    "herb_cn_name": "桃仁",
+    "herb_pinyin": "Taoren"
+  },
+  "Asparagi Radix": {
+    "herb_en_name": "Asparagi Radix",
+    "herb_cn_name": "天冬",
+    "herb_pinyin": "Tiandong"
+  },
+  "Trichosanthis Radix": {
+    "herb_en_name": "Trichosanthis Radix",
+    "herb_cn_name": "天花粉",
+    "herb_pinyin": "Tianhuafen"
+  },
+  "Semiaquilegiae Radix": {
+    "herb_en_name": "Semiaquilegiae Radix",
+    "herb_cn_name": "天葵子",
+    "herb_pinyin": "Tiankuizi"
+  },
+  "Arisaematis Rhizoma": {
+    "herb_en_name": "Arisaematis Rhizoma",
+    "herb_cn_name": "天南星",
+    "herb_pinyin": "Tiannanxing"
+  },
+  "Saussureae Involucratae Herba": {
+    "herb_en_name": "Saussureae Involucratae Herba",
+    "herb_cn_name": "天山雪莲",
+    "herb_pinyin": "Tianshanxuelian"
+  },
+  "Caulis Aristolochiae": {
+    "herb_en_name": "Caulis Aristolochiae",
+    "herb_cn_name": "天仙藤",
+    "herb_pinyin": "Tianxianteng"
+  },
+  "Hyoscyami Semen": {
+    "herb_en_name": "Hyoscyami Semen",
+    "herb_cn_name": "天仙子",
+    "herb_pinyin": "Tianxianzi"
+  },
+  "Bamusaeconcretiosilicea": {
+    "herb_en_name": "Bamusaeconcretiosilicea",
+    "herb_cn_name": "天竺黄",
+    "herb_pinyin": "Tianzhuhuang"
+  },
+  "Melo Semen": {
+    "herb_en_name": "Melo Semen",
+    "herb_cn_name": "甜瓜子",
+    "herb_pinyin": "Tianguazi"
+  },
+  "Smilax Scodinicaulis C.H. Wrisht?": {
+    "herb_en_name": "Smilax Scodinicaulis C.H. Wrisht?",
+    "herb_cn_name": "铁丝威灵仙",
+    "herb_pinyin": "Tiesiweilingxian"
+  },
+  "Herba Clematidis Aethusaefoliae": {
+    "herb_en_name": "Herba Clematidis Aethusaefoliae",
+    "herb_cn_name": "铁线透骨草",
+    "herb_pinyin": "Tiexiantougucao"
+  },
+  "Lepidii Semen Descurainiae Semen": {
+    "herb_en_name": "Lepidii Semen Descurainiae Semen",
+    "herb_cn_name": "葶苈子",
+    "herb_pinyin": "Tinglizi"
+  },
+  "Tetrapanacis Medulla": {
+    "herb_en_name": "Tetrapanacis Medulla",
+    "herb_cn_name": "通草",
+    "herb_pinyin": "Tongcao"
+  },
+  "Bolbostemae Paniculati Bulbus": {
+    "herb_en_name": "Bolbostemae Paniculati Bulbus",
+    "herb_cn_name": "土贝母",
+    "herb_pinyin": "Tubeimu"
+  },
+  "Smilacis Glabrae Rhixoma": {
+    "herb_en_name": "Smilacis Glabrae Rhixoma",
+    "herb_cn_name": "土茯苓",
+    "herb_pinyin": "Tufuling"
+  },
+  "Pseudolaricis Cortex": {
+    "herb_en_name": "Pseudolaricis Cortex",
+    "herb_cn_name": "土荆皮",
+    "herb_pinyin": "Tujingpi"
+  },
+  "Cuscutae Semen": {
+    "herb_en_name": "Cuscutae Semen",
+    "herb_cn_name": "菟丝子",
+    "herb_pinyin": "Tusizi"
+  },
+  "Arcae Concha": {
+    "herb_en_name": "Arcae Concha",
+    "herb_cn_name": "瓦楞子",
+    "herb_pinyin": "Waleng"
+  },
+  "Cotyledon Fimbriata Turcz.": {
+    "herb_en_name": "Cotyledon Fimbriata Turcz.",
+    "herb_cn_name": "瓦松",
+    "herb_pinyin": "Wasong"
+  },
+  "Vaccariae Semen": {
+    "herb_en_name": "Vaccariae Semen",
+    "herb_cn_name": "王不留行",
+    "herb_pinyin": "Wangbuliuxing"
+  },
+  "Radix Clematidis": {
+    "herb_en_name": "Radix Clematidis",
+    "herb_cn_name": "威灵仙",
+    "herb_pinyin": "Weilingxian"
+  },
+  "Potentillae Chinensis Herba": {
+    "herb_en_name": "Potentillae Chinensis Herba",
+    "herb_cn_name": "委陵菜",
+    "herb_pinyin": "Weilingcai"
+  },
+  "Cayratiae Japonicae Herba": {
+    "herb_en_name": "Cayratiae Japonicae Herba",
+    "herb_cn_name": "乌敛莓",
+    "herb_pinyin": "Wulianmei"
+  },
+  "Sapindi Mukorossi Semen": {
+    "herb_en_name": "Sapindi Mukorossi Semen",
+    "herb_cn_name": "无患子",
+    "herb_pinyin": "Wuhuanzi"
+  },
+  "Sapindi Mukorossiperic Arpium": {
+    "herb_en_name": "Sapindi Mukorossiperic Arpium",
+    "herb_cn_name": "无患子皮",
+    "herb_pinyin": "Wuhuanzipi"
+  },
+  "Evodiae Fructus": {
+    "herb_en_name": "Evodiae Fructus",
+    "herb_cn_name": "吴茱萸",
+    "herb_pinyin": "Wuzhuyu"
+  },
+  "Semen Firmianae": {
+    "herb_en_name": "Semen Firmianae",
+    "herb_cn_name": "梧桐子",
+    "herb_pinyin": "Wutongzi"
+  },
+  "Galla Chinensis": {
+    "herb_en_name": "Galla Chinensis",
+    "herb_cn_name": "五倍子",
+    "herb_pinyin": "Wubeizi"
+  },
+  "Tamaricis Cacumen": {
+    "herb_en_name": "Tamaricis Cacumen",
+    "herb_cn_name": "西河柳",
+    "herb_pinyin": "Xiheliu"
+  },
+  "Croci Stigma": {
+    "herb_en_name": "Croci Stigma",
+    "herb_cn_name": "西红花",
+    "herb_pinyin": "Xihonghua"
+  },
+  "Panacis Quinquefolii Radix": {
+    "herb_en_name": "Panacis Quinquefolii Radix",
+    "herb_cn_name": "西洋参",
+    "herb_pinyin": "Xiyangshen"
+  },
+  "Siegesbeckiae Herba": {
+    "herb_en_name": "Siegesbeckiae Herba",
+    "herb_cn_name": "豨莶草",
+    "herb_pinyin": "Xixiancao"
+  },
+  "Asari Radix Et Rhizoma": {
+    "herb_en_name": "Asari Radix Et Rhizoma",
+    "herb_cn_name": "细辛",
+    "herb_pinyin": "Xixin"
+  },
+  "Prunellae Spica": {
+    "herb_en_name": "Prunellae Spica",
+    "herb_cn_name": "夏枯草",
+    "herb_pinyin": "Xiakucao"
+  },
+  "Corydalis Decumbens(Thunb.)Pers.": {
+    "herb_en_name": "Corydalis Decumbens(Thunb.)Pers.",
+    "herb_cn_name": "夏天无",
+    "herb_pinyin": "Xiatianwu"
+  },
+  "Agrimonia Eupatoria": {
+    "herb_en_name": "Agrimonia Eupatoria",
+    "herb_cn_name": "仙鹤草",
+    "herb_pinyin": "Xianhecao"
+  },
+  "Curculiginis Rhizome": {
+    "herb_en_name": "Curculiginis Rhizome",
+    "herb_cn_name": "仙茅",
+    "herb_pinyin": "Xianmao"
+  },
+  "Veronicae Peregrinae Herba": {
+    "herb_en_name": "Veronicae Peregrinae Herba",
+    "herb_cn_name": "仙桃草",
+    "herb_pinyin": "Xiantaocao"
+  },
+  "Abrus Precatorius L.": {
+    "herb_en_name": "Abrus Precatorius L.",
+    "herb_cn_name": "相思子",
+    "herb_pinyin": "Xiangsizi"
+  },
+  "Cyperi Rhizoma": {
+    "herb_en_name": "Cyperi Rhizoma",
+    "herb_cn_name": "香附",
+    "herb_pinyin": "Xiangfu"
+  },
+  "Cortex Periplocae Radicis": {
+    "herb_en_name": "Cortex Periplocae Radicis",
+    "herb_cn_name": "香加皮",
+    "herb_pinyin": "Xiangjiapi"
+  },
+  "Cymbopon Citratus(D C.) Stapf": {
+    "herb_en_name": "Cymbopon Citratus(D C.) Stapf",
+    "herb_cn_name": "香茅",
+    "herb_pinyin": "Xiangmao"
+  },
+  "Moslae Herba": {
+    "herb_en_name": "Moslae Herba",
+    "herb_cn_name": "香薷",
+    "herb_pinyin": "Xiangru"
+  },
+  "Citri Fructus": {
+    "herb_en_name": "Citri Fructus",
+    "herb_cn_name": "香橼",
+    "herb_pinyin": "Xiangyuan"
+  },
+  "Foeniculi Fructus": {
+    "herb_en_name": "Foeniculi Fructus",
+    "herb_cn_name": "小茴香",
+    "herb_pinyin": "Xiaohuixiang"
+  },
+  "Herba Cirsii": {
+    "herb_en_name": "Herba Cirsii",
+    "herb_cn_name": "小蓟",
+    "herb_pinyin": "Xiaoji"
+  },
+  "Stachyurimedulla Helwingiaemedulla": {
+    "herb_en_name": "Stachyurimedulla Helwingiaemedulla",
+    "herb_cn_name": "小通草",
+    "herb_pinyin": "Xiaotongcao"
+  },
+  "Allium Azureum Ledeb.": {
+    "herb_en_name": "Allium Azureum Ledeb.",
+    "herb_cn_name": "薤白",
+    "herb_pinyin": "Xiebai"
+  },
+  "Magnoliae Flos": {
+    "herb_en_name": "Magnoliae Flos",
+    "herb_cn_name": "辛夷",
+    "herb_pinyin": "Xinyi"
+  },
+  "Radix Cynanchi Paniculati": {
+    "herb_en_name": "Radix Cynanchi Paniculati",
+    "herb_cn_name": "徐长卿",
+    "herb_pinyin": "Xuchangqing"
+  },
+  "Dipsaci Radix": {
+    "herb_en_name": "Dipsaci Radix",
+    "herb_cn_name": "续断",
+    "herb_pinyin": "Xuduan"
+  },
+  "Hemerocallis Radix": {
+    "herb_en_name": "Hemerocallis Radix",
+    "herb_cn_name": "萱草根",
+    "herb_pinyin": "Xuancaogen"
+  },
+  "Figwort Root": {
+    "herb_en_name": "Figwort Root",
+    "herb_cn_name": "玄参",
+    "herb_pinyin": "Xuanshen"
+  },
+  "Inulae Flos": {
+    "herb_en_name": "Inulae Flos",
+    "herb_cn_name": "旋覆花",
+    "herb_pinyin": "Xuanfuhua"
+  },
+  "Rhizoma Seu Herba Aristolochiae Mollissimae": {
+    "herb_en_name": "Rhizoma Seu Herba Aristolochiae Mollissimae",
+    "herb_cn_name": "寻骨风",
+    "herb_pinyin": "Xungufeng"
+  },
+  "Bruceae Fructus": {
+    "herb_en_name": "Bruceae Fructus",
+    "herb_cn_name": "鸦胆子",
+    "herb_pinyin": "Yadanzi"
+  },
+  "Commelinae Herba": {
+    "herb_en_name": "Commelinae Herba",
+    "herb_cn_name": "鸭跖草",
+    "herb_pinyin": "Yazhicao"
+  },
+  "Semen Lini": {
+    "herb_en_name": "Semen Lini",
+    "herb_cn_name": "亚麻子",
+    "herb_pinyin": "Yamazi"
+  },
+  "Corydalis Rhizoma": {
+    "herb_en_name": "Corydalis Rhizoma",
+    "herb_cn_name": "延胡索",
+    "herb_pinyin": "Yanhusuo"
+  },
+  "Daturae Flos": {
+    "herb_en_name": "Daturae Flos",
+    "herb_cn_name": "洋金花",
+    "herb_pinyin": "Yangjinhua"
+  },
+  "Chrysanthemi Indici Flos": {
+    "herb_en_name": "Chrysanthemi Indici Flos",
+    "herb_cn_name": "野菊花",
+    "herb_pinyin": "Yejuhua"
+  },
+  "Solidaginis Herba": {
+    "herb_en_name": "Solidaginis Herba",
+    "herb_cn_name": "一枝黄花",
+    "herb_pinyin": "Yizhihuanghua"
+  },
+  "Fritillariae Pallidiflorae Bulbus": {
+    "herb_en_name": "Fritillariae Pallidiflorae Bulbus",
+    "herb_cn_name": "伊贝母",
+    "herb_pinyin": "Yibeimu"
+  },
+  "Leonuri Herba": {
+    "herb_en_name": "Leonuri Herba",
+    "herb_cn_name": "益母草",
+    "herb_pinyin": "Yimucao"
+  },
+  "Alpiniae Oxyphyliae Fructus": {
+    "herb_en_name": "Alpiniae Oxyphyliae Fructus",
+    "herb_cn_name": "益智",
+    "herb_pinyin": "Yizhi"
+  },
+  "Artemisiae Scopariae Herba": {
+    "herb_en_name": "Artemisiae Scopariae Herba",
+    "herb_cn_name": "茵陈",
+    "herb_pinyin": "Yinchen"
+  },
+  "Gypsophila Licentiana Hand.-Mazz.": {
+    "herb_en_name": "Gypsophila Licentiana Hand.-Mazz.",
+    "herb_cn_name": "银柴胡",
+    "herb_pinyin": "Yinchaihu"
+  },
+  "Epimrdii Herba": {
+    "herb_en_name": "Epimrdii Herba",
+    "herb_cn_name": "淫羊藿",
+    "herb_pinyin": "Yinyanghuo"
+  },
+  "Papaveris Pericarpium": {
+    "herb_en_name": "Papaveris Pericarpium",
+    "herb_cn_name": "罂粟壳",
+    "herb_pinyin": "Yingsuke"
+  },
+  "Phyllanthi Fructus": {
+    "herb_en_name": "Phyllanthi Fructus",
+    "herb_cn_name": "余甘子",
+    "herb_pinyin": "Yuganzi"
+  },
+  "Houttuyniae Herba": {
+    "herb_en_name": "Houttuyniae Herba",
+    "herb_cn_name": "鱼腥草",
+    "herb_pinyin": "Yuxingcao"
+  },
+  "Echinopsis Radix": {
+    "herb_en_name": "Echinopsis Radix",
+    "herb_cn_name": "禹州漏芦",
+    "herb_pinyin": "Yuzhouloulu"
+  },
+  "Maydis Seigma": {
+    "herb_en_name": "Maydis Seigma",
+    "herb_cn_name": "玉米须",
+    "herb_pinyin": "Yumixu"
+  },
+  "Polygonati Odorati Rhizoma": {
+    "herb_en_name": "Polygonati Odorati Rhizoma",
+    "herb_cn_name": "玉竹",
+    "herb_pinyin": "Yuzhu"
+  },
+  "Curcumae Radix": {
+    "herb_en_name": "Curcumae Radix",
+    "herb_cn_name": "郁金",
+    "herb_pinyin": "Yujin"
+  },
+  "Akebiae Frucyus": {
+    "herb_en_name": "Akebiae Frucyus",
+    "herb_cn_name": "预知子",
+    "herb_pinyin": "Yuzhizi"
+  },
+  "Flos Genkwa": {
+    "herb_en_name": "Flos Genkwa",
+    "herb_cn_name": "芫花",
+    "herb_pinyin": "Yuanhua"
+  },
+  "Coriandri Sativi Herba": {
+    "herb_en_name": "Coriandri Sativi Herba",
+    "herb_cn_name": "芫荽",
+    "herb_pinyin": "Yuansui"
+  },
+  "Gleditsiae Sinensis Semen": {
+    "herb_en_name": "Gleditsiae Sinensis Semen",
+    "herb_cn_name": "皂荚子",
+    "herb_pinyin": "Zaojiazi"
+  },
+  "Gleditsiae Spina": {
+    "herb_en_name": "Gleditsiae Spina",
+    "herb_cn_name": "皂角刺",
+    "herb_pinyin": "Zaojiaoci"
+  },
+  "Lycopi Herba": {
+    "herb_en_name": "Lycopi Herba",
+    "herb_cn_name": "泽兰",
+    "herb_pinyin": "Zelan"
+  },
+  "Euphorbiae Helioscopiae Herba": {
+    "herb_en_name": "Euphorbiae Helioscopiae Herba",
+    "herb_cn_name": "泽漆",
+    "herb_pinyin": "Zeqi"
+  },
+  "Alisma Orientale (Sam.) Juz.": {
+    "herb_en_name": "Alisma Orientale (Sam.) Juz.",
+    "herb_cn_name": "泽泻",
+    "herb_pinyin": "Zexie"
+  },
+  "Fritillariae Thunbrgii Bulbus": {
+    "herb_en_name": "Fritillariae Thunbrgii Bulbus",
+    "herb_cn_name": "浙贝母",
+    "herb_pinyin": "Zhebeimu"
+  },
+  "Anemarrhenae Rhizoma": {
+    "herb_en_name": "Anemarrhenae Rhizoma",
+    "herb_cn_name": "知母",
+    "herb_pinyin": "Zhimu"
+  },
+  "Gardeniae Fructus": {
+    "herb_en_name": "Gardeniae Fructus",
+    "herb_cn_name": "栀子",
+    "herb_pinyin": "Zhizi"
+  },
+  "Hoveniae Dulcis Semen": {
+    "herb_en_name": "Hoveniae Dulcis Semen",
+    "herb_cn_name": "枳椇子",
+    "herb_pinyin": "Zhijuzi"
+  },
+  "Aurantii Fructus": {
+    "herb_en_name": "Aurantii Fructus",
+    "herb_cn_name": "枳壳",
+    "herb_pinyin": "Zhike"
+  },
+  "Aurantii Fructus Immaturus": {
+    "herb_en_name": "Aurantii Fructus Immaturus",
+    "herb_cn_name": "枳实",
+    "herb_pinyin": "Zhishi"
+  },
+  "Herba Sarcandrae": {
+    "herb_en_name": "Herba Sarcandrae",
+    "herb_cn_name": "肿节风",
+    "herb_pinyin": "Zhongjiefeng"
+  },
+  "Polyporus Umbellatus(Pers)Fr.": {
+    "herb_en_name": "Polyporus Umbellatus(Pers)Fr.",
+    "herb_cn_name": "猪苓",
+    "herb_pinyin": "Zhuling"
+  },
+  "Gleditsiae Fructus Abnormalis": {
+    "herb_en_name": "Gleditsiae Fructus Abnormalis",
+    "herb_cn_name": "猪牙皂",
+    "herb_pinyin": "Zhuyazao"
+  },
+  "Panacis Japonici Rhizoma": {
+    "herb_en_name": "Panacis Japonici Rhizoma",
+    "herb_cn_name": "竹节参",
+    "herb_pinyin": "Zhujieshen"
+  },
+  "Boehmeriae Rhizoma Et Radix": {
+    "herb_en_name": "Boehmeriae Rhizoma Et Radix",
+    "herb_cn_name": "苎麻根",
+    "herb_pinyin": "Zhumagen"
+  },
+  "Lithospermum Erythrorhizon": {
+    "herb_en_name": "Lithospermum Erythrorhizon",
+    "herb_cn_name": "紫草",
+    "herb_pinyin": "Zicao"
+  },
+  "Violsse Herba": {
+    "herb_en_name": "Violsse Herba",
+    "herb_cn_name": "紫花地丁",
+    "herb_pinyin": "Zihuadiding"
+  },
+  "Peucedanidecursivi Radix": {
+    "herb_en_name": "Peucedanidecursivi Radix",
+    "herb_cn_name": "紫花前胡",
+    "herb_pinyin": "Zihuaqianhu"
+  },
+  "Perilla Frutescens": {
+    "herb_en_name": "Perilla Frutescens",
+    "herb_cn_name": "紫苏",
+    "herb_pinyin": "Zisu"
+  },
+  "Perillae Fructus": {
+    "herb_en_name": "Perillae Fructus",
+    "herb_cn_name": "紫苏子",
+    "herb_pinyin": "Zisuzi"
+  },
+  "Asteris Radix Et Rhizoma": {
+    "herb_en_name": "Asteris Radix Et Rhizoma",
+    "herb_cn_name": "紫菀",
+    "herb_pinyin": "Ziwan"
+  },
+  "Radix Puerariae": {
+    "herb_en_name": "Radix Puerariae",
+    "herb_cn_name": "葛根",
+    "herb_pinyin": "Gegen"
+  },
+  "Sea Cucumber": {
+    "herb_en_name": "Sea Cucumber",
+    "herb_cn_name": "海参",
+    "herb_pinyin": "Haishen"
+  },
+  "Erigeron Breviscapus": {
+    "herb_en_name": "Erigeron Breviscapus",
+    "herb_cn_name": "灯盏细辛",
+    "herb_pinyin": "Dengzhanxixin"
+  },
+  "Radix et Rhizoma Ligustici Chinesis": {
+    "herb_en_name": "Radix et Rhizoma Ligustici Chinesis",
+    "herb_cn_name": "蒿本",
+    "herb_pinyin": "Haoben"
+  },
+  "Clerodendrum Trichotomum Thunb": {
+    "herb_en_name": "Clerodendrum Trichotomum Thunb",
+    "herb_cn_name": "臭梧桐",
+    "herb_pinyin": "Chouwutong"
+  },
+  "Illicium Difengpi K. L. B. Et K. I. M.": {
+    "herb_en_name": "Illicium Difengpi K. L. B. Et K. I. M.",
+    "herb_cn_name": "地枫皮",
+    "herb_pinyin": "Difengpi"
+  },
+  "Rubi Fructus": {
+    "herb_en_name": "Rubi Fructus",
+    "herb_cn_name": "覆盆子",
+    "herb_pinyin": "Fupenzi"
+  },
+  "Folium Nelumbinis": {
+    "herb_en_name": "Folium Nelumbinis",
+    "herb_cn_name": "荷叶",
+    "herb_pinyin": "Heye"
+  },
+  "Tribulifructus": {
+    "herb_en_name": "Tribulifructus",
+    "herb_cn_name": "蒺藜",
+    "herb_pinyin": "Jili"
+  },
+  "Bomboo Juice": {
+    "herb_en_name": "Bomboo Juice",
+    "herb_cn_name": "竹沥",
+    "herb_pinyin": "Zhuli"
+  },
+  "Leonuri Fructus": {
+    "herb_en_name": "Leonuri Fructus",
+    "herb_cn_name": "茺蔚子",
+    "herb_pinyin": "Chongweizi"
+  },
+  "Lycii Cortex": {
+    "herb_en_name": "Lycii Cortex",
+    "herb_cn_name": "地骨皮",
+    "herb_pinyin": "Digupi"
+  },
+  "Lycii Fructus": {
+    "herb_en_name": "Lycii Fructus",
+    "herb_cn_name": "枸杞子",
+    "herb_pinyin": "Gouqizi"
+  },
+  "Citri Fructus Retinervus": {
+    "herb_en_name": "Citri Fructus Retinervus",
+    "herb_cn_name": "橘络",
+    "herb_pinyin": "Juluo"
+  },
+  "Litchi Semen": {
+    "herb_en_name": "Litchi Semen",
+    "herb_cn_name": "荔枝核",
+    "herb_pinyin": "Lizhihe"
+  },
+  "Viticis Negundo Folium": {
+    "herb_en_name": "Viticis Negundo Folium",
+    "herb_cn_name": "牡荆叶",
+    "herb_pinyin": "Mujingye"
+  },
+  "Fructus Ligustri Lucidi": {
+    "herb_en_name": "Fructus Ligustri Lucidi",
+    "herb_cn_name": "女贞子",
+    "herb_pinyin": "Nvzhenzi"
+  },
+  "Mume Fructus": {
+    "herb_en_name": "Mume Fructus",
+    "herb_cn_name": "乌梅",
+    "herb_pinyin": "Wumei"
+  },
+  "Coicis Semen": {
+    "herb_en_name": "Coicis Semen",
+    "herb_cn_name": "薏苡仁",
+    "herb_pinyin": "Yiyiren"
+  },
+  "Coriolus": {
+    "herb_en_name": "Coriolus",
+    "herb_cn_name": "云芝",
+    "herb_pinyin": "Yunzhi"
+  },
+  "Oroxyli Semen": {
+    "herb_en_name": "Oroxyli Semen",
+    "herb_cn_name": "木蝴蝶",
+    "herb_pinyin": "Muhudie"
+  },
+  "Lignum Pini Nodi": {
+    "herb_en_name": "Lignum Pini Nodi",
+    "herb_cn_name": "松节",
+    "herb_pinyin": "Songjie"
+  },
+  "Ginseng Folium": {
+    "herb_en_name": "Ginseng Folium",
+    "herb_cn_name": "人参叶",
+    "herb_pinyin": "Renshenye"
+  },
+  "Ginkgo Folium": {
+    "herb_en_name": "Ginkgo Folium",
+    "herb_cn_name": "银杏叶",
+    "herb_pinyin": "Yinxingye"
+  },
+  "Semen Pruni": {
+    "herb_en_name": "Semen Pruni",
+    "herb_cn_name": "郁李仁",
+    "herb_pinyin": "Yuliren"
+  }
+}

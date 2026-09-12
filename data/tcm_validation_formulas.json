@@ -1,0 +1,717 @@
+{
+  "_meta": {
+    "description": "Traditional TCM formula-herb validation dataset for reverse network pharmacology study",
+    "sources": [
+      "Chinese Pharmacopoeia 2020 (ChP 2020)",
+      "Fang Ji Xue (方剂学), 2nd ed., People's Medical Publishing House, 2011",
+      "National Clinical Practice Guidelines for Traditional Chinese Medicine (SATCM)"
+    ],
+    "note": "Herb names use TCMSP herb_pinyin identifiers for cross-referencing",
+    "version": "1.0"
+  },
+  "hypertension": {
+    "disease_cn": "高血压",
+    "disease_en": "Hypertension",
+    "formulas": {
+      "_note": "Herbs not in TCMSP 500: Tianma, Shijueming, Longgu, Muli, Guiban, Shengdihuang, Tianmendong, Yejiaoteng, Dihuang(raw), Jiegeng — excluded from comparison. Formula pool corrected 2026-09-12 to match the actual KIOM/G-KoM '고혈압 한의표준임상진료지침 2021' (R1-R18): replaced Longdan Xiegan Tang and Zhenggan Xifeng Tang (not present in the real CPG) with Xuefu Zhuyu Tang (R6) and Buzhong Yiqi Tang (R8), which are.",
+      "Tianma_Gouteng_Yin": {
+        "name_cn": "天麻钩藤饮",
+        "name_en": "Gastrodia and Uncaria Decoction",
+        "source": "Fang Ji Xue 2011, p.453 — Korean CPG (KIOM/G-KoM 2021) Grade B (combo, R4), C (mono, R1)",
+        "indication": "Liver-yang hyperactivity hypertension",
+        "herbs_all": [
+          "Tianma",
+          "Gouteng",
+          "Shijueming",
+          "Zhizi",
+          "Huangqin",
+          "Niuxi",
+          "Duzhong",
+          "Yimucao",
+          "Sangjisheng",
+          "Yejiaoteng",
+          "Fuling"
+        ],
+        "herbs": [
+          "Gouteng",
+          "Zhizi",
+          "Huangqin",
+          "Niuxi",
+          "Duzhong",
+          "Yimucao",
+          "Sangjisheng",
+          "Fuling"
+        ]
+      },
+      "Qiju_Dihuang_Wan": {
+        "name_cn": "杞菊地黄丸",
+        "name_en": "Lycium-Chrysanthemum-Rehmannia Pill",
+        "source": "ChP 2020 — Korean CPG (KIOM/G-KoM 2021) Grade B (combo, R7)",
+        "indication": "Liver-kidney yin deficiency hypertension",
+        "herbs": [
+          "Gouqizi",
+          "Juhua",
+          "Shudihuang",
+          "Shanzhuyu",
+          "Shanyao",
+          "Zexie",
+          "Mudanpi",
+          "Fuling"
+        ]
+      },
+      "Banxia_Baizhu_Tianma_Tang": {
+        "name_cn": "半夏白术天麻汤",
+        "name_en": "Pinellia-Atractylodes-Gastrodia Decoction",
+        "source": "Fang Ji Xue 2011, p.457 — Korean CPG (KIOM/G-KoM 2021) Grade B (combo, R5), C (mono, R2)",
+        "indication": "Phlegm-dampness hypertension with vertigo",
+        "herbs_all": [
+          "Tianma",
+          "Banxia",
+          "Baizhu",
+          "Fuling",
+          "Chenpi",
+          "Gancao",
+          "Shengjiang",
+          "Dazao"
+        ],
+        "herbs": [
+          "Banxia",
+          "Baizhu",
+          "Fuling",
+          "Chenpi",
+          "Gancao",
+          "Shengjiang",
+          "Dazao"
+        ]
+      },
+      "Xuefu_Zhuyu_Tang": {
+        "name_cn": "血府逐瘀汤",
+        "name_en": "Drive Out Stasis from the Mansion of Blood Decoction",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.264 — Korean CPG (KIOM/G-KoM 2021) Grade B, R6",
+        "indication": "Blood stasis type hypertension",
+        "herbs_all": [
+          "Taoren",
+          "Honghua",
+          "Danggui",
+          "Dihuang",
+          "Chuanxiong",
+          "Chishao",
+          "Chaihu",
+          "Zhike",
+          "Gancao",
+          "Niuxi",
+          "Jiegeng"
+        ],
+        "herbs": [
+          "Taoren",
+          "Honghua",
+          "Danggui",
+          "Shudihuang",
+          "Chuanxiong",
+          "Chishao",
+          "Chaihu",
+          "Zhike",
+          "Gancao",
+          "Niuxi",
+          "Jiegeng"
+        ]
+      },
+      "Buzhong_Yiqi_Tang": {
+        "name_cn": "补中益气汤",
+        "name_en": "Center-Supplementing Qi-Boosting Decoction",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.285 — Korean CPG (KIOM/G-KoM 2021) Grade B, R8",
+        "indication": "Qi deficiency type hypertension",
+        "herbs_all": [
+          "Huangqi",
+          "Renshen",
+          "Baizhu",
+          "Gancao",
+          "Danggui",
+          "Chenpi",
+          "Shengma",
+          "Chaihu",
+          "Shengjiang",
+          "Dazao"
+        ],
+        "herbs": [
+          "Huangqi",
+          "Renshen",
+          "Baizhu",
+          "Gancao",
+          "Danggui",
+          "Chenpi",
+          "Shengma",
+          "Chaihu",
+          "Shengjiang",
+          "Dazao"
+        ]
+      }
+    }
+  },
+  "fatigue": {
+    "disease_cn": "疲劳/虚劳",
+    "disease_en": "Fatigue / Chronic Fatigue",
+    "formulas": {
+      "Buzhong_Yiqi_Tang": {
+        "name_cn": "补中益气汤",
+        "name_en": "Center-Supplementing Qi-Boosting Decoction",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.285",
+        "indication": "Spleen-qi deficiency fatigue",
+        "herbs": [
+          "Huangqi",
+          "Renshen",
+          "Baizhu",
+          "Gancao",
+          "Danggui",
+          "Chenpi",
+          "Shengma",
+          "Chaihu",
+          "Shengjiang",
+          "Dazao"
+        ]
+      },
+      "Sijunzi_Tang": {
+        "name_cn": "四君子汤",
+        "name_en": "Four Gentlemen Decoction",
+        "source": "Fang Ji Xue 2011, p.271",
+        "indication": "Spleen-stomach qi deficiency fatigue",
+        "herbs": [
+          "Renshen",
+          "Baizhu",
+          "Fuling",
+          "Gancao"
+        ]
+      },
+      "Shengmai_San": {
+        "name_cn": "生脉散",
+        "name_en": "Pulse-Generating Powder",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.300",
+        "indication": "Qi-yin deficiency fatigue, chronic fatigue syndrome",
+        "herbs_all": [
+          "Renshen",
+          "Maidong",
+          "Wuweizi"
+        ],
+        "herbs": [
+          "Renshen",
+          "Beiwuweizi"
+        ]
+      },
+      "Guipi_Tang": {
+        "name_cn": "归脾汤",
+        "name_en": "Spleen-Restoring Decoction",
+        "source": "Fang Ji Xue 2011, p.293",
+        "indication": "Heart-spleen deficiency fatigue with insomnia",
+        "herbs_all": [
+          "Renshen",
+          "Huangqi",
+          "Baizhu",
+          "Fuling",
+          "Suanzaoren",
+          "Longyanrou",
+          "Muxiang",
+          "Danggui",
+          "Yuanzhi",
+          "Gancao",
+          "Shengjiang",
+          "Dazao"
+        ],
+        "herbs": [
+          "Renshen",
+          "Huangqi",
+          "Baizhu",
+          "Fuling",
+          "Suanzaoren",
+          "Muxiang",
+          "Danggui",
+          "Gancao",
+          "Shengjiang",
+          "Dazao"
+        ]
+      },
+      "Shiquan_Dabu_Tang": {
+        "name_cn": "十全大补汤",
+        "name_en": "Perfect Major Supplementation Decoction",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.296",
+        "indication": "Qi-blood deficiency fatigue",
+        "herbs": [
+          "Renshen",
+          "Baizhu",
+          "Fuling",
+          "Gancao",
+          "Danggui",
+          "Baishao",
+          "Shudihuang",
+          "Chuanxiong",
+          "Huangqi",
+          "Rougui"
+        ]
+      }
+    }
+  },
+  "rheumatoid arthritis": {
+    "disease_cn": "类风湿关节炎/痹证",
+    "disease_en": "Rheumatoid Arthritis / Bi Syndrome",
+    "formulas": {
+      "_note": "Herbs not in TCMSP 500: Xixin excluded (Asarum — controlled; Duhuo confirmed in TCMSP)",
+      "Duhuo_Jisheng_Wan": {
+        "name_cn": "独活寄生丸",
+        "name_en": "Pubescent Angelica and Mistletoe Pill",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.242",
+        "indication": "Bi-syndrome RA with liver-kidney deficiency",
+        "herbs_all": [
+          "Duhuo",
+          "Sangjisheng",
+          "Duzhong",
+          "Niuxi",
+          "Xixin",
+          "Qinjiao",
+          "Fuling",
+          "Rougui",
+          "Fangfeng",
+          "Chuanxiong",
+          "Renshen",
+          "Gancao",
+          "Danggui",
+          "Baishao",
+          "Shudihuang"
+        ],
+        "herbs": [
+          "Duhuo",
+          "Sangjisheng",
+          "Duzhong",
+          "Niuxi",
+          "Qinjiao",
+          "Fuling",
+          "Rougui",
+          "Fangfeng",
+          "Chuanxiong",
+          "Renshen",
+          "Gancao",
+          "Danggui",
+          "Baishao",
+          "Shudihuang"
+        ]
+      },
+      "Juanbi_Tang": {
+        "name_cn": "蠲痹汤",
+        "name_en": "Impediment-Alleviating Decoction",
+        "source": "Fang Ji Xue 2011, p.237",
+        "indication": "Wind-cold-damp Bi-syndrome RA",
+        "herbs": [
+          "Qianghuo",
+          "Duhuo",
+          "Guizhi",
+          "Qinjiao",
+          "Haifengteng",
+          "Danggui",
+          "Chuanxiong",
+          "Ruxiang",
+          "Moxiangzipi",
+          "Gancao",
+          "Shengjiang"
+        ]
+      },
+      "Sanbi_Tang": {
+        "name_cn": "三痹汤",
+        "name_en": "Three-Obstruction Decoction",
+        "source": "Fang Ji Xue 2011, p.240",
+        "indication": "RA with qi-blood deficiency and wind-cold-damp",
+        "herbs": [
+          "Renshen",
+          "Huangqi",
+          "Gancao",
+          "Chuanxiong",
+          "Danggui",
+          "Baishao",
+          "Fuling",
+          "Duzhong",
+          "Niuxi",
+          "Qianghuo",
+          "Duhuo",
+          "Fangfeng",
+          "Qinjiao",
+          "Xuduan",
+          "Rougui",
+          "Shengjiang"
+        ]
+      },
+      "Wutou_Tang": {
+        "name_cn": "乌头汤",
+        "name_en": "Aconite Decoction",
+        "source": "Fang Ji Xue 2011, p.235",
+        "indication": "Cold-dominant Bi-syndrome RA with joint pain",
+        "herbs": [
+          "Mahuang",
+          "Baishao",
+          "Huangqi",
+          "Gancao",
+          "Zhichuanwu"
+        ]
+      }
+    }
+  },
+  "type 2 diabetes": {
+    "disease_cn": "2型糖尿病/消渴",
+    "disease_en": "Type 2 Diabetes / Xiaoke",
+    "formulas": {
+      "Liuwei_Dihuang_Wan": {
+        "name_cn": "六味地黄丸",
+        "name_en": "Six-Ingredient Rehmannia Pill",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.376",
+        "indication": "Kidney-yin deficiency diabetes",
+        "herbs": [
+          "Shudihuang",
+          "Shanzhuyu",
+          "Shanyao",
+          "Zexie",
+          "Mudanpi",
+          "Fuling"
+        ]
+      },
+      "Yuye_Tang": {
+        "name_cn": "玉液汤",
+        "name_en": "Jade Fluid Decoction",
+        "source": "Fang Ji Xue 2011, p.384",
+        "indication": "Qi-yin deficiency diabetes with thirst",
+        "herbs_all": [
+          "Shanyao",
+          "Huangqi",
+          "Zhimu",
+          "Jineijin",
+          "Gegen",
+          "Wuweizi",
+          "Tianhuafen"
+        ],
+        "herbs": [
+          "Shanyao",
+          "Huangqi",
+          "Zhimu",
+          "Gegen",
+          "Beiwuweizi",
+          "Tianhuafen"
+        ]
+      },
+      "Xiaoke_Fang": {
+        "name_cn": "消渴方",
+        "name_en": "Diabetes-Relieving Formula",
+        "source": "Fang Ji Xue 2011, p.382",
+        "indication": "Upper-jiao heat diabetes",
+        "herbs_all": [
+          "Tianhuafen",
+          "Huanglian",
+          "Shengdihuang",
+          "Oujie",
+          "Fuling"
+        ],
+        "herbs": [
+          "Tianhuafen",
+          "Huanglian",
+          "Fuling"
+        ]
+      },
+      "Baihu_Renshen_Tang": {
+        "name_cn": "白虎加人参汤",
+        "name_en": "White Tiger plus Ginseng Decoction",
+        "source": "Fang Ji Xue 2011, p.133",
+        "indication": "Heat-excess diabetes with intense thirst",
+        "herbs_all": [
+          "Shigao",
+          "Zhimu",
+          "Gancao",
+          "Jingmi",
+          "Renshen"
+        ],
+        "herbs": [
+          "Zhimu",
+          "Gancao",
+          "Renshen"
+        ]
+      },
+      "Jingui_Shenqi_Wan": {
+        "name_cn": "金匮肾气丸",
+        "name_en": "Golden Cabinet Kidney Qi Pill",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.372",
+        "indication": "Kidney-yang deficiency diabetes with frequent urination",
+        "herbs": [
+          "Fuzi",
+          "Rougui",
+          "Shudihuang",
+          "Shanzhuyu",
+          "Shanyao",
+          "Zexie",
+          "Mudanpi",
+          "Fuling"
+        ]
+      }
+    }
+  },
+  "insomnia": {
+    "disease_cn": "失眠",
+    "disease_en": "Insomnia",
+    "formulas": {
+      "Suanzaoren_Tang": {
+        "name_cn": "酸棗仁湯",
+        "name_en": "Sour Jujube Decoction",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.385",
+        "indication": "Heart-liver yin deficiency insomnia",
+        "herbs_all": [
+          "Suanzaoren",
+          "Fuling",
+          "Chuanxiong",
+          "Zhimu",
+          "Gancao"
+        ],
+        "herbs": [
+          "Suanzaoren",
+          "Fuling",
+          "Chuanxiong",
+          "Zhimu",
+          "Gancao"
+        ]
+      },
+      "Guipi_Tang": {
+        "name_cn": "歸脾湯",
+        "name_en": "Restore the Spleen Decoction",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.327",
+        "indication": "Heart-spleen deficiency insomnia",
+        "herbs_all": [
+          "Renshen",
+          "Huangqi",
+          "Baizhu",
+          "Fuling",
+          "Danggui",
+          "Yuanzhi",
+          "Suanzaoren",
+          "Muxiang",
+          "Longyanrou",
+          "Gancao",
+          "Dazao",
+          "Shengjiang"
+        ],
+        "herbs": [
+          "Renshen",
+          "Huangqi",
+          "Baizhu",
+          "Fuling",
+          "Danggui",
+          "Suanzaoren",
+          "Muxiang",
+          "Gancao",
+          "Dazao",
+          "Shengjiang"
+        ]
+      },
+      "Wendan_Tang": {
+        "name_cn": "溫膽湯",
+        "name_en": "Warm the Gallbladder Decoction",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.488",
+        "indication": "Phlegm-heat disturbing the heart insomnia",
+        "herbs_all": [
+          "Banxia",
+          "Chenpi",
+          "Fuling",
+          "Gancao",
+          "Zhike",
+          "Zhuru",
+          "Shengjiang",
+          "Dazao"
+        ],
+        "herbs": [
+          "Banxia",
+          "Chenpi",
+          "Fuling",
+          "Gancao",
+          "Zhike",
+          "Shengjiang",
+          "Dazao"
+        ]
+      },
+      "Xiaoyao_San": {
+        "name_cn": "逍遙散",
+        "name_en": "Free and Easy Wanderer Powder",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.202",
+        "indication": "Liver qi stagnation insomnia / emotional insomnia",
+        "herbs_all": [
+          "Danggui",
+          "Baishao",
+          "Baizhu",
+          "Fuling",
+          "Chaihu",
+          "Gancao",
+          "Bohe",
+          "Shengjiang"
+        ],
+        "herbs": [
+          "Danggui",
+          "Baishao",
+          "Baizhu",
+          "Fuling",
+          "Chaihu",
+          "Gancao",
+          "Bohe",
+          "Shengjiang"
+        ]
+      },
+      "Xuefu_Zhuyu_Tang": {
+        "name_cn": "血府逐瘀湯",
+        "name_en": "Drive Out Stasis from the Mansion of Blood Decoction",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.264",
+        "indication": "Blood stasis type insomnia",
+        "herbs_all": [
+          "Taoren",
+          "Honghua",
+          "Danggui",
+          "Dihuang",
+          "Chuanxiong",
+          "Chishao",
+          "Chaihu",
+          "Zhike",
+          "Gancao",
+          "Niuxi",
+          "Jiegeng"
+        ],
+        "herbs": [
+          "Taoren",
+          "Honghua",
+          "Danggui",
+          "Shudihuang",
+          "Chuanxiong",
+          "Chishao",
+          "Chaihu",
+          "Zhike",
+          "Gancao",
+          "Niuxi",
+          "Jiegeng"
+        ]
+      },
+      "_note": "Herbs not in TCMSP cache: Longyanrou, Yuanzhi, Zhuru — excluded from comparison"
+    }
+  },
+  "dementia": {
+    "disease_cn": "痴呆/认知障碍",
+    "disease_en": "Dementia / Cognitive Impairment",
+    "formulas": {
+      "_note": "Herbs not in TCMSP cache: Huangbai (excluded from Huanglian Jiedu Tang). Source: Korean Standard CPG for Dementia (KIOM 2021); ChP 2020",
+      "Yigan_San": {
+        "name_cn": "抑肝散",
+        "name_en": "Liver-Suppressing Powder",
+        "source": "ChP 2020; Fang Ji Xue 2011 — Korean CPG Grade B for BPSD",
+        "indication": "Liver qi stagnation / BPSD in dementia (agitation, irritability)",
+        "herbs_all": [
+          "Chaihu",
+          "Fuling",
+          "Chuanxiong",
+          "Danggui",
+          "Gancao",
+          "Gouteng",
+          "Baizhu"
+        ],
+        "herbs": [
+          "Chaihu",
+          "Fuling",
+          "Chuanxiong",
+          "Danggui",
+          "Gancao",
+          "Gouteng",
+          "Baizhu"
+        ]
+      },
+      "Liuwei_Dihuang_Wan": {
+        "name_cn": "六味地黄丸",
+        "name_en": "Six-Ingredient Rehmannia Pill",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.376 — Korean CPG Grade B/C",
+        "indication": "Kidney-yin deficiency dementia (memory loss, night sweating)",
+        "herbs_all": [
+          "Shudihuang",
+          "Shanzhuyu",
+          "Shanyao",
+          "Mudanpi",
+          "Fuling",
+          "Zexie"
+        ],
+        "herbs": [
+          "Shudihuang",
+          "Shanzhuyu",
+          "Shanyao",
+          "Mudanpi",
+          "Fuling",
+          "Zexie"
+        ]
+      },
+      "Bawei_Dihuang_Wan": {
+        "name_cn": "八味地黄丸",
+        "name_en": "Eight-Ingredient Rehmannia Pill (Jinkui Shenqi Wan)",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.372 — Korean CPG Grade C",
+        "indication": "Kidney-yang deficiency dementia (cold limbs, frequent urination)",
+        "herbs_all": [
+          "Shudihuang",
+          "Shanzhuyu",
+          "Shanyao",
+          "Mudanpi",
+          "Fuling",
+          "Zexie",
+          "Guizhi",
+          "Fuzi"
+        ],
+        "herbs": [
+          "Shudihuang",
+          "Shanzhuyu",
+          "Shanyao",
+          "Mudanpi",
+          "Fuling",
+          "Zexie",
+          "Guizhi",
+          "Fuzi"
+        ]
+      },
+      "Buzhong_Yiqi_Tang": {
+        "name_cn": "补中益气汤",
+        "name_en": "Center-Supplementing Qi-Boosting Decoction",
+        "source": "ChP 2020; Fang Ji Xue 2011, p.285 — Korean CPG Grade C",
+        "indication": "Spleen qi deficiency dementia (fatigue, poor appetite)",
+        "herbs_all": [
+          "Huangqi",
+          "Renshen",
+          "Baizhu",
+          "Gancao",
+          "Danggui",
+          "Chenpi",
+          "Shengma",
+          "Chaihu",
+          "Shengjiang",
+          "Dazao"
+        ],
+        "herbs": [
+          "Huangqi",
+          "Renshen",
+          "Baizhu",
+          "Gancao",
+          "Danggui",
+          "Chenpi",
+          "Shengma",
+          "Chaihu",
+          "Shengjiang",
+          "Dazao"
+        ]
+      },
+      "Huanglian_Jiedu_Tang": {
+        "name_cn": "黄连解毒汤",
+        "name_en": "Coptis Detoxifying Decoction",
+        "source": "Fang Ji Xue 2011, p.118 — Korean CPG Grade B for neuroinflammatory dementia",
+        "indication": "Fire-toxin accumulation dementia (agitation, heat signs)",
+        "herbs_all": [
+          "Huanglian",
+          "Huangqin",
+          "Huangbai",
+          "Zhizi"
+        ],
+        "herbs": [
+          "Huanglian",
+          "Huangqin",
+          "Zhizi"
+        ]
+      }
+    }
+  }
+}

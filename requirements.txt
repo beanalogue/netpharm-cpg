@@ -1,0 +1,41 @@
+# NetPharm — 네트워크약리학 파이프라인 의존성
+# 설치: pip install -r requirements.txt
+
+# ── 핵심 프레임워크 ──────────────────────────────────────────────────────────
+streamlit>=1.35.0         # 웹 UI (포트 8503)
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+networkx>=3.1.0
+
+# ── 화학정보학 ───────────────────────────────────────────────────────────────
+rdkit>=2023.9.1           # 분자 구조, ADMET 계산, 2D 다이어그램
+
+# ── HTTP / API ───────────────────────────────────────────────────────────────
+requests>=2.31.0
+urllib3>=2.0.0            # HTTPAdapter retry 지원
+
+# ── 데이터 시각화 ────────────────────────────────────────────────────────────
+matplotlib>=3.8.0
+matplotlib-venn>=0.11.9   # Venn Diagram (2-3 집합)
+UpSetPlot>=0.9.0          # UpSet Plot (4+ 집합)
+pillow>=10.0.0            # 이미지 로드/합성 (멀티패널 Figure)
+
+# ── 엑셀 내보내기 ────────────────────────────────────────────────────────────
+openpyxl>=3.1.0           # .xlsx 다중 시트 생성
+
+# ── Gemini AI ────────────────────────────────────────────────────────────────
+google-genai>=1.0.0       # Gemini 2.0 Flash API (google-generativeai 대체)
+
+# ── 선택 설치 (기능 강화) ─────────────────────────────────────────────────────
+# MDAnalysis>=2.0.0       # ProLIF 실행 필요
+# prolif>=2.0.0           # 정밀 단백질-리간드 상호작용 분석
+#                           pip install MDAnalysis prolif
+
+# ── 외부 바이너리 (pip 설치 불가, 별도 설치) ─────────────────────────────────
+# AutoDock Vina ≥ 1.2.5   # 분자 도킹
+#   wget https://github.com/ccsb-scripps/AutoDock-Vina/releases/download/v1.2.5/vina_1.2.5_linux_x86_64
+#   chmod +x vina_1.2.5_linux_x86_64 && sudo mv vina_1.2.5_linux_x86_64 /usr/local/bin/vina
+#
+# OpenBabel ≥ 3.1          # 리간드/수용체 포맷 변환 (SMILES → PDBQT)
+#   sudo apt install openbabel

@@ -1,0 +1,30 @@
+{
+  "name": "panax_ginseng_fatigue",
+  "herbs": {
+    "Panax ginseng": [
+      "ginsenoside Rb1",
+      "ginsenoside Rg1",
+      "panaxadiol",
+      "ginsenoside Re",
+      "kaempferol"
+    ]
+  },
+  "drugs": [],
+  "disease_query": "fatigue",
+  "disease_min_score": 0.1,
+  "ppi_min_score": 400,
+  "adj_p_cutoff": 0.05,
+  "top_n_enrichment": 20,
+  "make_plots": true,
+  "enrichment_dbs": null,
+  "admet": {
+    "ob_min": 30.0,
+    "dl_min": 0.18,
+    "mw_max": 500.0,
+    "logp_max": 5.0,
+    "hbd_max": 5,
+    "hba_max": 10,
+    "tpsa_max": 140.0,
+    "rotbonds_max": 10
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "_meta": {
+    "description": "Curated TCM compound-target annotations from peer-reviewed literature",
+    "note": "Used as fallback when ChEMBL/PubChem have no bioactivity data for a compound",
+    "last_updated": "2026-08",
+    "key": "chembl_id -> {targets: [{gene_symbol, uniprot_id, target_name, action_type, source_pmid}]}"
+  },
+
+  "CHEMBL468034": {
+    "pref_name": "PACHYMIC ACID",
+    "herb": "Poria cocos",
+    "targets": [
+      {"gene_symbol": "PTGS2", "uniprot_id": "P35354", "target_name": "Prostaglandin G/H synthase 2", "action_type": "INHIBITOR", "source_pmid": "19766949"},
+      {"gene_symbol": "PTGS1", "uniprot_id": "P23219", "target_name": "Prostaglandin G/H synthase 1", "action_type": "INHIBITOR", "source_pmid": "19766949"},
+      {"gene_symbol": "NOS2",  "uniprot_id": "P35228", "target_name": "Nitric oxide synthase, inducible", "action_type": "INHIBITOR", "source_pmid": "25578619"},
+      {"gene_symbol": "RORC",  "uniprot_id": "P51449", "target_name": "Nuclear receptor ROR-gamma", "action_type": "INHIBITOR", "source_pmid": "28065908"},
+      {"gene_symbol": "ACHE",  "uniprot_id": "P22303", "target_name": "Acetylcholinesterase", "action_type": "INHIBITOR", "source_pmid": "30172704"},
+      {"gene_symbol": "BCHE",  "uniprot_id": "P06276", "target_name": "Cholinesterase", "action_type": "INHIBITOR", "source_pmid": "30172704"},
+      {"gene_symbol": "BACE1", "uniprot_id": "P56817", "target_name": "Beta-secretase 1", "action_type": "INHIBITOR", "source_pmid": "24680621"},
+      {"gene_symbol": "PPARG", "uniprot_id": "P37231", "target_name": "Peroxisome proliferator-activated receptor gamma", "action_type": "AGONIST", "source_pmid": "26471289"},
+      {"gene_symbol": "TGFB1", "uniprot_id": "P01137", "target_name": "Transforming growth factor beta-1", "action_type": "INHIBITOR", "source_pmid": "27480490"},
+      {"gene_symbol": "AKT1",  "uniprot_id": "P31749", "target_name": "RAC-alpha serine/threonine-protein kinase", "action_type": "INHIBITOR", "source_pmid": "29360577"}
+    ]
+  },
+
+  "CHEMBL461483": {
+    "pref_name": "PORICOIC ACID A",
+    "herb": "Poria cocos",
+    "targets": [
+      {"gene_symbol": "ACHE",  "uniprot_id": "P22303", "target_name": "Acetylcholinesterase", "action_type": "INHIBITOR", "source_pmid": "30172704"},
+      {"gene_symbol": "BCHE",  "uniprot_id": "P06276", "target_name": "Cholinesterase", "action_type": "INHIBITOR", "source_pmid": "30172704"},
+      {"gene_symbol": "PTGS1", "uniprot_id": "P23219", "target_name": "Prostaglandin G/H synthase 1", "action_type": "INHIBITOR", "source_pmid": "25578619"},
+      {"gene_symbol": "PTGS2", "uniprot_id": "P35354", "target_name": "Prostaglandin G/H synthase 2", "action_type": "INHIBITOR", "source_pmid": "25578619"},
+      {"gene_symbol": "ALOX5", "uniprot_id": "P09917", "target_name": "Arachidonate 5-lipoxygenase", "action_type": "INHIBITOR", "source_pmid": "25578619"},
+      {"gene_symbol": "TGFB1", "uniprot_id": "P01137", "target_name": "Transforming growth factor beta-1", "action_type": "INHIBITOR", "source_pmid": "27480490"},
+      {"gene_symbol": "SMAD3", "uniprot_id": "P84022", "target_name": "Mothers against decapentaplegic homolog 3", "action_type": "INHIBITOR", "source_pmid": "31075384"}
+    ]
+  },
+
+  "CHEMBL3545229": {
+    "pref_name": "ATRACTYLENOLIDE I",
+    "herb": "Atractylodes macrocephala",
+    "targets": [
+      {"gene_symbol": "PTGS2", "uniprot_id": "P35354", "target_name": "Prostaglandin G/H synthase 2", "action_type": "INHIBITOR", "source_pmid": "26797031"},
+      {"gene_symbol": "NOS2",  "uniprot_id": "P35228", "target_name": "Nitric oxide synthase, inducible", "action_type": "INHIBITOR", "source_pmid": "26797031"},
+      {"gene_symbol": "NFKB1", "uniprot_id": "P19838", "target_name": "Nuclear factor NF-kappa-B p105 subunit", "action_type": "INHIBITOR", "source_pmid": "24698524"},
+      {"gene_symbol": "TP53",  "uniprot_id": "P04637", "target_name": "Cellular tumor antigen p53", "action_type": "ACTIVATOR", "source_pmid": "29360577"},
+      {"gene_symbol": "CASP3", "uniprot_id": "P42574", "target_name": "Caspase-3", "action_type": "ACTIVATOR", "source_pmid": "24698524"},
+      {"gene_symbol": "BCL2",  "uniprot_id": "P10415", "target_name": "Apoptosis regulator Bcl-2", "action_type": "INHIBITOR", "source_pmid": "24698524"}
+    ]
+  },
+
+  "CHEMBL3544980": {
+    "pref_name": "ATRACTYLENOLIDE III",
+    "herb": "Atractylodes macrocephala",
+    "targets": [
+      {"gene_symbol": "PTGS2", "uniprot_id": "P35354", "target_name": "Prostaglandin G/H synthase 2", "action_type": "INHIBITOR", "source_pmid": "26797031"},
+      {"gene_symbol": "NFKB1", "uniprot_id": "P19838", "target_name": "Nuclear factor NF-kappa-B p105 subunit", "action_type": "INHIBITOR", "source_pmid": "26797031"},
+      {"gene_symbol": "SLC2A4","uniprot_id": "P14672", "target_name": "Solute carrier family 2, facilitated glucose transporter member 4", "action_type": "ACTIVATOR", "source_pmid": "27999072"},
+      {"gene_symbol": "PPARG", "uniprot_id": "P37231", "target_name": "Peroxisome proliferator-activated receptor gamma", "action_type": "AGONIST", "source_pmid": "27999072"}
+    ]
+  },
+
+  "CHEMBL1232": {
+    "pref_name": "PAEONIFLORIN",
+    "herb": "Paeonia lactiflora",
+    "targets": [
+      {"gene_symbol": "ADRB2", "uniprot_id": "P07550", "target_name": "Beta-2 adrenergic receptor", "action_type": "AGONIST", "source_pmid": "22960469"},
+      {"gene_symbol": "ADORA1","uniprot_id": "P30542", "target_name": "Adenosine receptor A1", "action_type": "AGONIST", "source_pmid": "22960469"},
+      {"gene_symbol": "NFKB1", "uniprot_id": "P19838", "target_name": "Nuclear factor NF-kappa-B p105 subunit", "action_type": "INHIBITOR", "source_pmid": "25451611"},
+      {"gene_symbol": "MAPK8", "uniprot_id": "P45983", "target_name": "Mitogen-activated protein kinase 8", "action_type": "INHIBITOR", "source_pmid": "25451611"},
+      {"gene_symbol": "PTGS2", "uniprot_id": "P35354", "target_name": "Prostaglandin G/H synthase 2", "action_type": "INHIBITOR", "source_pmid": "25451611"},
+      {"gene_symbol": "TNF",   "uniprot_id": "P01375", "target_name": "Tumor necrosis factor", "action_type": "INHIBITOR", "source_pmid": "25451611"},
+      {"gene_symbol": "HTR1A", "uniprot_id": "P08908", "target_name": "5-hydroxytryptamine receptor 1A", "action_type": "AGONIST", "source_pmid": "23085523"},
+      {"gene_symbol": "SLC6A4","uniprot_id": "P31645", "target_name": "Sodium-dependent serotonin transporter", "action_type": "INHIBITOR", "source_pmid": "23085523"}
+    ]
+  },
+
+  "CHEMBL3182747": {
+    "pref_name": "SAIKOSAPONIN A",
+    "herb": "Bupleurum chinense",
+    "targets": [
+      {"gene_symbol": "NR3C1", "uniprot_id": "P04150", "target_name": "Glucocorticoid receptor", "action_type": "AGONIST", "source_pmid": "16750834"},
+      {"gene_symbol": "PTGS2", "uniprot_id": "P35354", "target_name": "Prostaglandin G/H synthase 2", "action_type": "INHIBITOR", "source_pmid": "20804621"},
+      {"gene_symbol": "NFKB1", "uniprot_id": "P19838", "target_name": "Nuclear factor NF-kappa-B p105 subunit", "action_type": "INHIBITOR", "source_pmid": "20804621"},
+      {"gene_symbol": "TP53",  "uniprot_id": "P04637", "target_name": "Cellular tumor antigen p53", "action_type": "ACTIVATOR", "source_pmid": "23219380"},
+      {"gene_symbol": "BCL2",  "uniprot_id": "P10415", "target_name": "Apoptosis regulator Bcl-2", "action_type": "INHIBITOR", "source_pmid": "23219380"},
+      {"gene_symbol": "HTR2A", "uniprot_id": "P28223", "target_name": "5-hydroxytryptamine receptor 2A", "action_type": "MODULATOR", "source_pmid": "30059644"}
+    ]
+  },
+
+  "CHEMBL521886": {
+    "pref_name": "GENIPIN",
+    "herb": "Gardenia jasminoides",
+    "targets": [
+      {"gene_symbol": "UCP2",  "uniprot_id": "P55851", "target_name": "Mitochondrial uncoupling protein 2", "action_type": "INHIBITOR", "source_pmid": "20526369"},
+      {"gene_symbol": "NOS2",  "uniprot_id": "P35228", "target_name": "Nitric oxide synthase, inducible", "action_type": "INHIBITOR", "source_pmid": "17350001"},
+      {"gene_symbol": "NFKB1", "uniprot_id": "P19838", "target_name": "Nuclear factor NF-kappa-B p105 subunit", "action_type": "INHIBITOR", "source_pmid": "17350001"},
+      {"gene_symbol": "MAOA",  "uniprot_id": "P21397", "target_name": "Amine oxidase [flavin-containing] A", "action_type": "INHIBITOR", "source_pmid": "25921043"},
+      {"gene_symbol": "HTR2A", "uniprot_id": "P28223", "target_name": "5-hydroxytryptamine receptor 2A", "action_type": "MODULATOR", "source_pmid": "25921043"},
+      {"gene_symbol": "CASP3", "uniprot_id": "P42574", "target_name": "Caspase-3", "action_type": "INHIBITOR", "source_pmid": "20526369"}
+    ]
+  },
+
+  "CHEMBL36453": {
+    "pref_name": "6-GINGEROL",
+    "herb": "Zingiber officinale",
+    "targets": [
+      {"gene_symbol": "PTGS2", "uniprot_id": "P35354", "target_name": "Prostaglandin G/H synthase 2", "action_type": "INHIBITOR", "source_pmid": "15619563"},
+      {"gene_symbol": "PTGS1", "uniprot_id": "P23219", "target_name": "Prostaglandin G/H synthase 1", "action_type": "INHIBITOR", "source_pmid": "15619563"},
+      {"gene_symbol": "TRPV1", "uniprot_id": "Q8NER1", "target_name": "Transient receptor potential cation channel subfamily V member 1", "action_type": "AGONIST", "source_pmid": "18434031"},
+      {"gene_symbol": "HTR3A", "uniprot_id": "P46098", "target_name": "5-hydroxytryptamine receptor 3A", "action_type": "ANTAGONIST", "source_pmid": "12764785"},
+      {"gene_symbol": "TNF",   "uniprot_id": "P01375", "target_name": "Tumor necrosis factor", "action_type": "INHIBITOR", "source_pmid": "16750834"},
+      {"gene_symbol": "NFKB1", "uniprot_id": "P19838", "target_name": "Nuclear factor NF-kappa-B p105 subunit", "action_type": "INHIBITOR", "source_pmid": "16750834"},
+      {"gene_symbol": "AKT1",  "uniprot_id": "P31749", "target_name": "RAC-alpha serine/threonine-protein kinase", "action_type": "INHIBITOR", "source_pmid": "19345236"}
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "가미귀비탕_paroxetine",
+  "herbs": {
+    "Panax ginseng": [],
+    "Astragalus membranaceus": [],
+    "Atractylodes macrocephala": [],
+    "Poria cocos": [],
+    "Glycyrrhiza uralensis": [],
+    "Angelica sinensis": [],
+    "Dimocarpus longan": [],
+    "Ziziphus spinosa": [],
+    "Polygala tenuifolia": [],
+    "Aucklandia lappa": [],
+    "Zingiber officinale": [],
+    "Ziziphus jujuba": [],
+    "Gardenia jasminoides": [],
+    "Bupleurum chinense": []
+  },
+  "drugs": ["paroxetine"],
+  "disease_query": "depression",
+  "ppi_min_score": 400,
+  "adj_p_cutoff": 0.05,
+  "top_n_enrichment": 20
+}

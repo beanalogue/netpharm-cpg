@@ -1,0 +1,162 @@
+{
+  "insomnia": {
+    "disease_ko": "불면장애",
+    "disease_en": "Insomnia Disorder",
+    "cpg_source": "불면장애 한의표준임상진료지침 2021",
+    "publisher": "한국한의약진흥원 한의표준임상진료지침 개발사업단",
+    "year": 2021,
+    "formulas": [
+      {
+        "name_ko": "귀비탕가감",
+        "name_en": null,
+        "grade": "C",
+        "evidence_type": "Moderate",
+        "herbs_ko": [],
+        "indication": "성인 원발성 불면 환자의 불면증상 개선. 심비양허변증에 해당하는 가슴두근거림, 건망증, 정신피로, 안색이 좋지 않고 입맛이 없으며 식후 헛배가 부르는 증상 등에 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      },
+      {
+        "name_ko": "귀비탕가감",
+        "name_en": null,
+        "grade": "B",
+        "evidence_type": "Moderate",
+        "herbs_ko": [],
+        "indication": "성인 원발성 불면 환자의 불면증상 개선을 위해 수면약 단독 치료보다 귀비탕가감과 수면약의 병행치료를 고려해야 한다. 심비양허변증에 해당하는 가슴두근거림, 건망증, 정신피로, 안색이 좋지 않고 입맛이 없으며 식후 헛배가 부르는 증상 등에 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      },
+      {
+        "name_ko": "온담탕가감",
+        "name_en": null,
+        "grade": "C",
+        "evidence_type": "Moderate",
+        "herbs_ko": [],
+        "indication": "성인 원발성 불면 환자의 불면증상 개선. 심담허겁 변증에 해당하는 잘 놀라고 악몽을 꾸고 잠에서 잘 깨며, 복부가 답답하고 입이 쓰고 음식생각이 없고 입에서 점조한 가래 많은 증상이 있을 때 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      },
+      {
+        "name_ko": "온담탕가감",
+        "name_en": null,
+        "grade": "B",
+        "evidence_type": "Moderate",
+        "herbs_ko": [],
+        "indication": "성인 원발성 불면 환자의 불면증상 개선을 위해 수면약 단독 치료보다 온담탕가감과 수면약의 병행치료를 고려해야 한다. 심담허겁 변증에 해당하는 잘 놀라고 악몽을 꾸고 잠에서 잘 깨며, 복부가 답답하고 입이 쓰고 음식생각이 없고 입에서 점조한 가래 많은 증상이 있을 때 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      },
+      {
+        "name_ko": "산조인탕가감",
+        "name_en": null,
+        "grade": "C",
+        "evidence_type": "Moderate",
+        "herbs_ko": [],
+        "indication": "성인 원발성 불면 환자의 불면증상 개선. 간혈휴허변증에 해당하는 어지럽고 귀울림이 있으며, 안색이 창백하고 시야에 흐리고 밤에 잘 보지 못하며, 팔다리가 저리고 뻣뻣하고 관절의 움직임이 원활하지 못하고 손발의 떨림, 근육의 떨림 증상이 있을 경우 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      },
+      {
+        "name_ko": "산조인탕가감",
+        "name_en": null,
+        "grade": "B",
+        "evidence_type": "Moderate",
+        "herbs_ko": [],
+        "indication": "성인 원발성 불면 환자의 불면증상 개선을 위해 수면약 단독 치료보다 산조인탕가감과 수면약의 병행치료를 고려해야 한다. 간혈휴허변증에 해당하는 어지럽고 귀울림이 있으며, 안색이 창백하고 시야에 흐리고 밤에 잘 보지 못하며, 팔다리가 저리고 뻣뻣하고 관절의 움직임이 원활하지 못하고 손발의 떨림, 근육의 떨림 증상이 있을 경우 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      },
+      {
+        "name_ko": "소요산가감",
+        "name_en": null,
+        "grade": "C",
+        "evidence_type": "Moderate",
+        "herbs_ko": [],
+        "indication": "성인 원발성 불면 환자의 불면증상 개선. 간비불화, 간기울결 변증에 해당하는 잠을 못자고 꿈이 많으며 안색이 창백하거나 위황한 증상, 몸이 피로하고 팔다리에 힘이 없으며 복부가 창통하고 쉽게 화가 나는 증상에 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      },
+      {
+        "name_ko": "혈부축어탕가감",
+        "name_en": null,
+        "grade": "C",
+        "evidence_type": "Moderate",
+        "herbs_ko": [],
+        "indication": "성인 원발성 불면 환자의 불면증상 개선. 어혈내조의 변증에 해당하는 증상 불면의 기간이 길고, 초조하여 안정되지 못하고 밤에 놀라는 꿈을 많이 꾸고 가슴에 통증이 있고 통증이 고정되어 있으며 혀에 어반이 있는 등의 증상이 있을 경우 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      },
+      {
+        "name_ko": "혈부축어탕가감",
+        "name_en": null,
+        "grade": "B",
+        "evidence_type": "Moderate",
+        "herbs_ko": [],
+        "indication": "성인 원발성 불면 환자의 불면증상 개선을 위해 수면약 단독 치료보다 혈부축어탕가감과 수면약의 병행치료를 고려해야 한다. 어혈내조의 변증에 해당하는 증상 불면의 기간이 길고, 초조하여 안정되지 못하고 밤에 놀라는 꿈을 많이 꾸고 가슴에 통증이 있고 통증이 고정되어 있으며 혀에 어반이 있는 등의 증상이 있을 경우 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      }
+    ],
+    "single_herbs": []
+  },
+  "dementia": {
+    "disease_ko": "치매",
+    "disease_en": "Dementia / Cognitive Impairment",
+    "cpg_source": "치매 한의표준임상진료지침 2021",
+    "publisher": "한국한의약진흥원 한의표준임상진료지침 개발사업단",
+    "year": 2021,
+    "formulas": [
+      {
+        "name_ko": "억간산가감",
+        "name_en": "Yigan San (Modified)",
+        "grade": "B",
+        "evidence_type": "Moderate",
+        "herbs_ko": [],
+        "indication": "치매 환자의 주변증상(BPSD) 개선. 간기울결, 간양상항 변증에 해당하는 흥분, 공격성, 환각, 배회 등의 행동심리증상에 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      },
+      {
+        "name_ko": "육미지황탕가감",
+        "name_en": "Liuwei Dihuang Tang (Modified)",
+        "grade": "B",
+        "evidence_type": "Moderate",
+        "herbs_ko": [],
+        "indication": "치매 환자의 인지기능 개선. 신음허변증에 해당하는 건망, 어지럼증, 이명, 허리와 무릎이 시리고 아픈 증상에 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      },
+      {
+        "name_ko": "팔미지황탕가감",
+        "name_en": "Bawei Dihuang Tang (Modified)",
+        "grade": "C",
+        "evidence_type": "Low",
+        "herbs_ko": [],
+        "indication": "치매 환자의 인지기능 개선. 신양허변증에 해당하는 수족냉증, 요슬냉통, 야뇨 증상에 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      },
+      {
+        "name_ko": "보중익기탕가감",
+        "name_en": "Buzhong Yiqi Tang (Modified)",
+        "grade": "C",
+        "evidence_type": "Low",
+        "herbs_ko": [],
+        "indication": "치매 환자의 전신 기능 유지. 비기허변증에 해당하는 기력저하, 식욕부진, 복부팽만 증상에 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      },
+      {
+        "name_ko": "황련해독탕가감",
+        "name_en": "Huanglian Jiedu Tang (Modified)",
+        "grade": "B",
+        "evidence_type": "Moderate",
+        "herbs_ko": [],
+        "indication": "치매 환자의 염증성 신경퇴행 억제. 화독변증에 해당하는 흥분, 초조, 열감, 황태설 증상에 효과적.",
+        "herbs_pinyin": [],
+        "pinyin_map": {}
+      }
+    ],
+    "single_herbs": []
+  }
+}

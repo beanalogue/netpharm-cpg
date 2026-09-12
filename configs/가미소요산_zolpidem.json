@@ -1,0 +1,20 @@
+{
+  "name": "가미소요산_zolpidem",
+  "herbs": {
+    "Bupleurum chinense": [],
+    "Paeonia lactiflora": [],
+    "Angelica sinensis": [],
+    "Poria cocos": [],
+    "Atractylodes macrocephala": [],
+    "Glycyrrhiza uralensis": [],
+    "Gardenia jasminoides": [],
+    "Moutan cortex": [],
+    "Mentha haplocalyx": [],
+    "Zingiber officinale": []
+  },
+  "drugs": ["zolpidem"],
+  "disease_query": "insomnia",
+  "ppi_min_score": 400,
+  "adj_p_cutoff": 0.05,
+  "top_n_enrichment": 20
+}

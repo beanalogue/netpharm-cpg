@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+
+# Data — large caches excluded; small data files included
+data/tcmsp_cache/
+db/
+
+# Docking output (large files)
+docking/
+
+# Logs and runtime
+logs/
+*.log
+app.log
+
+# System
+.DS_Store
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Paper — only final version tracked
+paper/draft_v1.md
+paper/draft_v2.md
+
+# System-specific
+netpharm.service
+start.sh

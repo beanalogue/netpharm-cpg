@@ -1,0 +1,15 @@
+{
+  "name": "hyangsosan_paroxetine",
+  "herbs": {
+    "Cyperus rotundus": [],
+    "Perilla frutescens": [],
+    "Citrus reticulata": [],
+    "Glycyrrhiza uralensis": [],
+    "Zingiber officinale": []
+  },
+  "drugs": ["paroxetine"],
+  "disease_query": "depression",
+  "ppi_min_score": 400,
+  "adj_p_cutoff": 0.05,
+  "top_n_enrichment": 20
+}
