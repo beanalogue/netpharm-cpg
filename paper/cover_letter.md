@@ -37,3 +37,4 @@ Yours sincerely,
 Department of Oriental Neuropsychiatry
 Dong-eui University College of Korean Medicine
 Busan, Republic of Korea
+ORCID: 0000-0003-0068-9904

@@ -1,5 +1,10 @@
 # Rank-based evaluation of herb–disease molecular target overlap in Korean traditional medicine clinical practice guidelines: a reverse network pharmacology pipeline demonstrated across three indications
 
+**Author:** Chan-Young Kwon, KMD, PhD
+**Affiliation:** Department of Oriental Neuropsychiatry, Dong-eui University College of Korean Medicine, Busan, Republic of Korea
+**ORCID:** 0000-0003-0068-9904
+**Corresponding author:** Chan-Young Kwon (contact details to be entered in submission system)
+
 **Running title:** Rank-based target overlap evaluation of Korean TM clinical practice guidelines
 
 **Keywords:** network pharmacology; rank-based enrichment; clinical practice guidelines; Korean medicine; traditional medicine; database coverage; OpenTargets; TCMSP; ethnopharmacology
