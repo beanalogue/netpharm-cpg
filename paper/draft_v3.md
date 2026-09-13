@@ -277,9 +277,7 @@ The differential performance is most parsimoniously interpreted as reflecting di
 
 ## CRediT author contribution statement
 
-**[Author A]:** Conceptualization; Methodology; Software; Formal analysis; Data curation; Writing – original draft; Writing – review & editing; Visualization.
-**[Author B]:** Conceptualization; Writing – review & editing; Supervision.
-**[Author C — if applicable]:** Writing – review & editing; Supervision; Funding acquisition.
+**Chan-Young Kwon:** Conceptualization; Methodology; Software; Formal analysis; Investigation; Data curation; Writing – original draft; Writing – review & editing; Visualization; Project administration.
 
 ## Declaration of competing interest
 
@@ -291,7 +289,7 @@ All pipeline code, analysis scripts, CPG formula data, and the manuscript are av
 
 ## Acknowledgements
 
-[저자 정보 확정 후 기재. 예: 연구비 지원 기관, 데이터 접근 지원, 원고 검토자 등. 연구비가 없는 경우: "This research received no specific funding."]
+This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
 
 ---
 
