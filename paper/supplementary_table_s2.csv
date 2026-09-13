@@ -1,0 +1,12 @@
+Scenario,Description,Parameter Varied,HTN_AUROC,HTN_p,HTN_Sig,INS_AUROC,INS_p,INS_Sig,DEM_AUROC,DEM_p,DEM_Sig
+1,Primary (OT≥0.10 k≥1),—,0.655,<0.001,** (Bonf.),0.596,0.054,† (trend),0.571,0.146,n.s.
+2,OT score ≥ 0.05 k≥1,OpenTargets score threshold,0.655,<0.001,** (Bonf.),0.596,0.054,† (trend),0.571,0.146,n.s.
+3,OT score ≥ 0.20 k≥1,OpenTargets score threshold,0.659,<0.001,** (Bonf.),0.587,0.081,n.s.,0.571,0.146,n.s.
+4,OT score ≥ 0.30 k≥1,OpenTargets score threshold,0.600,0.030,* (nom.),0.599,0.059,† (trend),0.571,0.146,n.s.
+5,OB ≥ 20% DL≥0.18 k≥1,TCMSP OB threshold (lower),0.655,<0.001,** (Bonf.),0.596,0.054,† (trend),0.571,0.146,n.s.
+6,OB ≥ 40% DL≥0.18 k≥1,TCMSP OB threshold (higher),0.655,<0.001,** (Bonf.),0.596,0.054,† (trend),0.571,0.146,n.s.
+7,OT≥0.10 k≥2,Minimum disease-gene overlap (herb),0.640,0.006,** (Bonf.),0.607,0.048,* (nom.),0.557,0.188,n.s.
+8,OT≥0.10 k≥3,Minimum disease-gene overlap (herb),0.623,0.014,* (nom.),0.636,0.027,* (nom.),0.574,0.136,n.s.
+9,OT≥0.20 k≥2,OT score + overlap combined,0.644,0.003,** (Bonf.),0.622,0.026,* (nom.),0.557,0.188,n.s.
+10,OT≥0.30 k≥2,OT score + overlap combined,0.600,0.046,* (nom.),0.608,0.041,* (nom.),0.557,0.188,n.s.
+11,SVM/RF ≥ 0.7 k≥1,TCMSP target prediction confidence,0.662,0.003,** (Bonf.),0.618,0.039,* (nom.),0.506,0.451,n.s.

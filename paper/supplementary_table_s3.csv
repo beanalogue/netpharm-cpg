@@ -1,0 +1,4 @@
+Formula_Pool,vs_HTN_gene_set_AUROC,vs_HTN_gene_set_p,vs_INS_gene_set_AUROC,vs_INS_gene_set_p,vs_DEM_gene_set_AUROC,vs_DEM_gene_set_p
+HTN formula herbs (n=27 ranked),0.642,0.004,0.579,0.073,0.593,0.037
+INS formula herbs (n=21 ranked),0.593,0.066,0.555,0.209,0.536,0.295
+DEM formula herbs (n=20 ranked),0.660,0.006,0.623,0.033,0.541,0.275
