@@ -28,7 +28,7 @@ Korean traditional medicine (TM) clinical practice guidelines (CPGs) codify cent
 
 **Aim of the study:** To develop a reproducible reverse network pharmacology (NP) pipeline that evaluates whether CPG-recommended formula herbs show stronger disease-gene target overlap than non-recommended herbs across the full TCMSP herb space, and to demonstrate its application across three Korean medicine CPG indications spanning distinct pathophysiological domains.
 
-**Materials and methods:** A five-step reverse NP pipeline was developed: (1) disease-associated gene collection from OpenTargets (score ≥ 0.10); (2) herb compound-target retrieval from TCMSP (OB ≥ 30%, DL ≥ 0.18); (3) hypergeometric significance scoring of all 500 TCMSP herbs against disease gene sets; (4) CPG formula herb pool construction from Korean TM CPG 2021 editions using Chinese Pharmacopoeia 2020 standard compositions; and (5) area under the receiver operating characteristic curve (AUROC) evaluation with permutation testing (n = 1,000). Three indications were selected by purposive sampling to span distinct pathophysiological domains: essential hypertension (cardiometabolic), insomnia disorder (neuropsychiatric), and dementia/cognitive impairment (neurodegenerative). Primary outcomes were disease-level pool AUROCs with Bonferroni correction (α = 0.05/3 = 0.0167). Per-formula AUROCs were computed as exploratory descriptive statistics. Sensitivity was assessed across 10 parameter scenarios varying OpenTargets score threshold and minimum target overlap.
+**Materials and methods:** A five-step reverse NP pipeline was developed: (1) disease-associated gene collection from OpenTargets (score ≥ 0.10); (2) herb compound-target retrieval from TCMSP (OB ≥ 30%, DL ≥ 0.18); (3) hypergeometric significance scoring of all 500 TCMSP herbs against disease gene sets; (4) CPG formula herb pool construction from Korean TM CPG 2021 editions using Chinese Pharmacopoeia 2020 standard compositions; and (5) area under the receiver operating characteristic curve (AUROC) evaluation with permutation testing (n = 1,000). Three indications were selected by purposive sampling to span distinct pathophysiological domains: essential hypertension (cardiometabolic), insomnia disorder (neuropsychiatric), and dementia/cognitive impairment (neurodegenerative). Primary outcomes were disease-level pool AUROCs with Bonferroni correction (α = 0.05/3 = 0.0167). Per-formula AUROCs were computed as exploratory descriptive statistics. Sensitivity was assessed across 11 parameter scenarios varying OpenTargets score threshold, minimum target overlap, and TCMSP compound-target prediction confidence threshold.
 
 **Results:** Statistically significant enrichment of CPG formula herbs was found for essential hypertension (pool AUROC = 0.655; permutation p < 0.001). A non-significant positive trend was observed for insomnia (pool AUROC = 0.596; permutation p = 0.054). Null enrichment was found for dementia (pool AUROC = 0.571; permutation p = 0.146). Of ten parameter scenarios evaluated in sensitivity analysis, seven represented genuinely independent configurations (three were duplicates of the primary analysis due to a data-caching limitation and a disease-gene query-paging limitation); hypertension remained significant in 5 of these 7 scenarios (AUROC range: 0.600–0.659), and dementia remained null throughout. Systematic herb exclusions — primarily herbs absent from TCMSP's database or failing OB/DL filters — introduced conservative bias throughout.
 
@@ -275,7 +275,9 @@ The differential performance is most parsimoniously interpreted as reflecting di
 
 ## CRediT author contribution statement
 
-[TBD upon authorship finalization]
+**[Author A]:** Conceptualization; Methodology; Software; Formal analysis; Data curation; Writing – original draft; Writing – review & editing; Visualization.
+**[Author B]:** Conceptualization; Writing – review & editing; Supervision.
+**[Author C — if applicable]:** Writing – review & editing; Supervision; Funding acquisition.
 
 ## Declaration of competing interest
 
@@ -287,7 +289,7 @@ All pipeline code, analysis scripts, CPG formula data, and the manuscript are av
 
 ## Acknowledgements
 
-[TBD]
+[저자 정보 확정 후 기재. 예: 연구비 지원 기관, 데이터 접근 지원, 원고 검토자 등. 연구비가 없는 경우: "This research received no specific funding."]
 
 ---
 
@@ -310,12 +312,6 @@ All pipeline code, analysis scripts, CPG formula data, and the manuscript are av
 15. Lipinski CA, Lombardo F, Dominy BW, Feeney PJ. Experimental and computational approaches to estimate solubility and permeability in drug discovery and development settings. *Adv Drug Deliv Rev.* 2001;46(1-3):3-26.
 16. Gu J, Gui Y, Chen L, et al. Use of natural products as chemical library for drug discovery and network pharmacology. *PLoS One.* 2013;8(4):e62839.
 17. Subramanian A, Tamayo P, Mootha VK, et al. Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. *Proc Natl Acad Sci USA.* 2005;102(43):15545-15550.
-
-**[RESOLVED — v3.5]** All four `[CITE — VERIFY]` tags have been removed by narrowing each claim to what is directly supportable from the study's own data, the CPG source documents, or established pharmacokinetic principles (Lipinski [15], TCMSP [3]):
-
-Note: the previously cited tanshinone IIA / Danshen antihypertensive reference has been removed along with the corresponding in-text claim, since Danshen is not actually present in any formula in the hypertension pool (see Section 4.3 on the formula-pool correction).
-
-Two additional claims that referenced fabricated sources (a Korean-medicine-specific molecular network analysis of hypertension herbs, and a general network pharmacology review of TCM in cardiovascular disease) were removed from the Introduction's supporting citations for NP's track record in cardiovascular applications; the corresponding text should be rechecked against the citations that remain (refs 1–2) to confirm it is still adequately supported.
 
 ---
 
@@ -363,8 +359,10 @@ Exclusions occur at two distinct pipeline stages: (i) **pool construction** — 
 | 8 | 0.10 | 3 | **0.623** | **0.014** | 0.636 | 0.027 | 0.574 | 0.136 |
 | 9 | 0.20 | 2 | **0.644** | **0.003** | 0.622 | 0.026 | 0.557 | 0.188 |
 | 10 | 0.30 | 2 | 0.600 | 0.046 | 0.608 | 0.041 | 0.557 | 0.188 |
+| 11 § | 0.10 | 1 (SVM/RF ≥ 0.7) | **0.662** | **0.003** | 0.618 | 0.039 | 0.506 | 0.451 |
 
 *HTN = essential hypertension; INS = insomnia disorder; DEM = dementia/cognitive impairment. Bold = significant (permutation p < 0.0167, Bonferroni). Scenarios 2, 5, and 6 duplicate the primary analysis exactly (see notes below) and are not independent tests; among the 7 independent scenarios, HTN is significant in 5; INS and DEM are non-significant in all 7.*
+*§ Scenario 11 applies a TCMSP compound-target prediction confidence filter (SVM score ≥ 0.7 or RF score ≥ 0.7), reducing the ranked herb counts modestly (HTN: 465 → 461; INS: 427 → 384; DEM: 471 → 463). It is counted separately from the 10-scenario OT/OB/overlap sweep.*
 *‡ OB threshold variation (scenarios 5, 6) produced identical results to the primary analysis because TCMSP compound data are cached at fixed OB ≥ 30% / DL ≥ 0.18 thresholds in the current pipeline implementation.*
 *† OT threshold variation in scenario 2 (0.05) produced identical results to the primary analysis (0.10) because the OpenTargets query retrieves a fixed 500-row page ordered by descending association score and applies the score threshold as a post-hoc filter on that page; the primary threshold is already reached without exhausting the page for all three diseases, so lowering it to 0.05 cannot add genes.*
 
@@ -378,8 +376,8 @@ Five-step pipeline: (Step 1) Disease gene targets from OpenTargets (MONDO ontolo
 **Figure 2. Disease pool AUROC across three Korean medicine CPG indications.**
 Bar plot of pool AUROC (y-axis) for essential hypertension (AUROC = 0.655, dark blue), insomnia disorder (AUROC = 0.596, amber), and dementia (AUROC = 0.571, slate). Grey shaded region represents the 95% confidence interval of the permutation null distribution (n = 1,000); open circles indicate the observed pool AUROC for each disease. Dashed line at AUROC = 0.5 indicates random performance. Significance marker (*) applies to hypertension only (permutation p < 0.001, Bonferroni α = 0.0167). The decreasing AUROC gradient illustrates differential database coverage of the herb–disease target interface across indications.
 
-**Figure 3. Sensitivity analysis — AUROC stability across 10 parameter scenarios.**
-Line plot showing pool AUROC for essential hypertension (blue circles), insomnia (orange triangles), and dementia (grey squares) across 10 parameter scenarios (x-axis). Horizontal dashed lines at AUROC = 0.5 (random performance) and AUROC = 0.655 (primary hypertension result). Open markers denote scenarios 2, 5, and 6, which reproduce the primary analysis exactly and are therefore not independent tests: scenario 2 (OT ≥ 0.05) returns an identical OpenTargets gene set to the primary analysis because the 500-row query page is already reached at OT ≥ 0.10 for all three diseases, and scenarios 5–6 (OB threshold variation) are identical because TCMSP compound-target data are cached at a fixed pharmacokinetic threshold. Shaded columns indicate the two scenarios in which hypertension is non-significant: scenarios 4 and 10, both at OT ≥ 0.30 (reduced disease gene set). Demonstrates hypertension enrichment significant in 5 of 7 independent scenarios, a consistent non-significant positive trend for insomnia, and null results for dementia throughout.
+**Figure 3. Sensitivity analysis — AUROC stability across 11 parameter scenarios.**
+Line plot showing pool AUROC for essential hypertension (blue circles), insomnia (orange triangles), and dementia (grey squares) across 11 parameter scenarios (x-axis, 7 independent + Scenario 11). Horizontal dashed lines at AUROC = 0.5 (random performance) and AUROC = 0.655 (primary hypertension result). Open markers denote scenarios 2, 5, and 6, which reproduce the primary analysis exactly and are therefore not independent tests: scenario 2 (OT ≥ 0.05) returns an identical OpenTargets gene set to the primary analysis because the 500-row query page is already reached at OT ≥ 0.10 for all three diseases, and scenarios 5–6 (OB threshold variation) are identical because TCMSP compound-target data are cached at a fixed pharmacokinetic threshold. Diamond markers denote Scenario 11 (SVM/RF confidence ≥ 0.7), which is shown separately at position 11. Shaded columns indicate the two scenarios in which hypertension is non-significant: scenarios 4 and 10, both at OT ≥ 0.30 (reduced disease gene set). Demonstrates hypertension enrichment significant in 5 of 7 independent scenarios (and in Scenario 11), a consistent non-significant positive trend for insomnia, and null results for dementia throughout.
 
 **Supplementary Figure S1. Cross-disease pool AUROC matrix.**
 Heatmap of pool AUROC values for each combination of formula herb pool (rows: HTN, INS, DEM) and disease gene set (columns: HTN, INS, DEM). Diagonal cells (bold border) represent the matched-disease analysis equivalent to the primary results; off-diagonal cells are cross-disease controls. Colour intensity encodes AUROC magnitude; values below the chance level (0.5) would appear white. Significance annotations from permutation tests (n = 1,000): *** p < 0.001, ** p < 0.01, * p < 0.0167 (Bonferroni), † p < 0.05, n.s. not significant.
